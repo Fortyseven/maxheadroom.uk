@@ -1,0 +1,21 @@
+{
+    "name": "maxheadroomuk",
+    "version": "1.0.0",
+    "description": "A fan-sourced rebuild of maxheadroom.com",
+    "main": "./index.html",
+    "scripts": {
+        "dev": "eleventy --serve",
+        "build": "eleventy"
+    },
+    "keywords": [
+        "11ty",
+        "11ty-starter",
+        "eleventy",
+        "eleventy-starter",
+        "eleventy-sample",
+        "11ty-template"
+    ],
+    "dependencies": {
+        "@11ty/eleventy": "^0.11.1"
+    }
+}

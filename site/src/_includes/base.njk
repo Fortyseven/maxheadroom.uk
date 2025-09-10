@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="color-scheme" content="light dark">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.red.min.css">
+    <title>{{ meta.siteName }}{% if page.url != '/' %} | {{ title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+</head>
+<body>
+
+  {{ content | safe }}
+
+  {% include "nav.njk" %}
+
+  <footer>
+    <div>
+      <p>&copy; {% year %} {{ meta.siteName }}{% if meta.authorName %} • {{ meta.authorName }}{% endif %}</p>
+    </div>
+  </footer>
+
+</body>
+</html>
