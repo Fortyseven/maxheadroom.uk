@@ -1,0 +1,148 @@
+@use "./fonts" as *;
+@use "./colors" as *;
+@use "./macros/episode-details" as *;
+
+body {
+    max-width: 1440px;
+    margin: auto;
+
+    font-family: "Saira", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18pt;
+    line-height: 1.2;
+
+    padding-inline: 2rem;
+
+    background: repeating-linear-gradient(0deg,
+            var(--bg-grid-color) 0px,
+            var(--bg-grid-color) 1px,
+            transparent 1px,
+            transparent 40px),
+        repeating-linear-gradient(90deg,
+            var(--bg-grid-color2) 0px,
+            var(--bg-grid-color2) 1px,
+            transparent 1px,
+            transparent 40px);
+    animation: grid-move 4s linear infinite;
+    background-color: #000;
+    color: var(--color-primary);
+    z-index: 0;
+
+    @keyframes grid-move {
+        0% {
+            background-position:
+                0 0,
+                0 0;
+        }
+
+        100% {
+            background-position:
+                40px 40px,
+                40px 40px;
+        }
+    }
+
+    a {
+        color: var(--color-secondary);
+        font-weight: 400;
+    }
+
+    header > h1:first-of-type {
+        color: var(--color-cyan) !important;
+        text-transform: uppercase;
+        text-align: center;
+
+        &:after {
+            // cursor
+            content: "_";
+            animation: blink 1s step-start 0s infinite;
+            margin-left: 0.1em;
+
+            @keyframes blink {
+
+                0%,
+                50% {
+                    opacity: 1;
+                }
+
+                51%,
+                100% {
+                    opacity: 0;
+                }
+            }
+        }
+    }
+
+    h1 {
+        color: var(--color-yellow);
+    }
+
+    h2 {
+        color: var(--color-red);
+    }
+
+    h3 {
+        color: var(--color-green);
+        text-align: center;
+        margin-top: 2em;
+    }
+
+    p {
+        text-align: justify;
+        text-justify: inter-word;
+
+        b,
+        strong {
+            color: var(--color-yellow);
+            font-weight: bold;
+        }
+
+    }
+
+    ul {
+        list-style: square;
+    }
+
+    table {
+        border-collapse: collapse;
+        // width: 100%;
+        background-color: #0006;
+        font-size: 0.85em;
+
+        tr {
+
+            th,
+            td {
+                border: 1px solid darken($color-blue, 40%);
+                padding: 0.25em 0.5em;
+                text-align: center;
+            }
+
+            th {
+                color: var(--color-blue);
+            }
+
+            td.label {
+                font-weight: bold;
+                color: var(--color-yellow);
+            }
+        }
+
+
+
+        // td:last-child {
+        //     text-align: left;
+        //     font-style: italic;
+        //     color: white;
+        // }
+
+        @media (max-width: 768px) {
+            /* use grids */
+
+
+
+        }
+    }
+}

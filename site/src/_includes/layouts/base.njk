@@ -5,7 +5,15 @@
     <meta name="color-scheme" content="light dark">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <!-- social -->
+    <meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}{{ meta.siteName }}">
+    <meta property="og:site_name" content="{{ meta.siteName }}">
+    <meta property="og:description" content="{{ meta.siteDescription }}">
+    <meta property="og:type" content="website">
+
+    {# <script data-goatcounter="https://maxheadroomuk.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script> #}
+
     <title>
         {% if page.url != '/' %}{{ title }} | {% endif %}{{ meta.siteName }}
     </title>
@@ -15,7 +23,7 @@
 
   {{ content | safe }}
 
-  {% include "nav.njk" %}
+  {# {% include "nav.njk" %} #}
 
   <footer>
     <div>

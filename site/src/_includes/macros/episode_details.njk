@@ -1,0 +1,43 @@
+<table class="episode-details">
+    {% if params.episode %}
+    <tr>
+        <td class="label">Episode</td>
+        <td>{{ params.episode }}</td>
+    </tr>
+    {% endif %}
+
+    {% if params.title %}
+    <tr>
+        <td class="label">Title</td>
+        <td>{{ params.title }}</td>
+    </tr>
+    {% endif %}
+
+    {% if params.production %}
+    <tr>
+        <td class="label">Production #</td>
+        <td>{{ params.production }}</td>
+    </tr>
+    {% endif %}
+
+    {% if params.ukairdate %}
+    <tr>
+        <td class="label">UK Air Date</td>
+        <td>{{ params.ukairdate }}</td>
+    </tr>
+    {% endif %}
+
+    {% if params.usairdate %}
+    <tr>
+        <td class="label">US Air Date</td>
+        <td>{{ params.usairdate }}</td>
+    </tr>
+    {% endif %}
+
+    {% if params.length %}
+    <tr>
+        <td class="label">Length</td>
+        <td>{{ params.length }}</td>
+    </tr>
+    {% endif %}
+</table>

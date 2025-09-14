@@ -1,0 +1,29 @@
+table.episode-details {
+    max-width: 400px;
+    width: 50%;
+    float: right;
+    margin-inline: 4rem;
+
+
+    th,
+    td {
+        border-color: var(--color-cyan) !important;
+    }
+
+    @media (max-width: 768px) {
+        float: none;
+        max-width: unset;
+        width: 100%;
+        margin: auto;
+        margin-bottom: 2rem;
+
+        display: flex;
+        flex-direction: column;
+
+        tr {
+            flex: auto;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}

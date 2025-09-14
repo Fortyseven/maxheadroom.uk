@@ -1,0 +1,23 @@
+$color-red: #f66;
+$color-blue: #66f;
+$color-green: #6b6;
+$color-yellow: #cc6;
+$color-cyan: #6bb;
+
+$color-primary: #ddd;
+$color-secondary: #0ff;
+
+:root {
+    /* --bg-grid-color2: #0ff2; */
+    --bg-grid-color: #0ff2;
+    --bg-grid-color2: #0ff2;
+
+    --color-red: $color-red;
+    --color-blue: $color-blue;
+    --color-green: $color-green;
+    --color-yellow: $color-yellow;
+    --color-cyan: $color-cyan;
+
+    --color-primary: #ddd;
+    --color-secondary: #0ff;
+}
