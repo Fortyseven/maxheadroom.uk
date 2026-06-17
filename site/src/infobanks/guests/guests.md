@@ -1,10 +1,10 @@
 ---
-title: "Max: Guests"
-
-slug: "max-guests"
+title: "Cinemax Guests"
+permalink: /infobanks/guests/index.html
+layout: "layouts/page.njk"
 ---
 
-In four seasons of two video, entertainment and talk shows on two channels in two countries, Max Headroom had a number of extremely high-profile guests. This page lists all of them and the shows on which they appeared.
+In four seasons of two video, entertainment and talk shows on two channels in two countries, _Max Headroom_ had a number of extremely high-profile guests. This page lists all of them and the shows on which they appeared.
 
 I have not found any good reason to index the video performers and songs. However, they are all listed in the various show entries and can be found by a site search.
 
@@ -51,9 +51,9 @@ Name links are to Wikipedia pages. Table is sortable by clicking top headings.
 
 ### Notes
 
--   The two appearances by Sting are the same interview with slightly different edits.
+- The two appearances by Sting are the same interview with slightly different edits.
 
--   Despite persistent references to the contrary, Luis Cardenas was never a guest on any Max show. He did have a video on a Season 3 show.
+- Despite persistent references to the contrary, Luis Cardenas was never a guest on any Max show. He did have a video on a Season 3 show.
 
 ## Performers
 
@@ -78,4 +78,4 @@ _Listing is complete only through Episode CH4.3.9._
 
 ### Notes
 
--   Some guests in Season 4 also performed. They will be noted here when those shows are documented.
+- Some guests in Season 4 also performed. They will be noted here when those shows are documented.

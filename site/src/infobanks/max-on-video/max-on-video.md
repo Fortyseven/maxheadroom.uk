@@ -1,7 +1,7 @@
 ---
 title: "Max on Video"
-
 slug: "max-on-video"
+permalink: /infobanks/max-on-video/index.html
 ---
 
 In his era and beyond, Max Headroom was virtually a standalone definition of every version of the word "video" - but his history _on_ video is a puzzling mess.
@@ -16,11 +16,11 @@ In any case, both of Max's owners in the era swung for the extra income and expo
 
 This page is likely to remain "Under Development" for quite some time, as the details about each video product are scanty and hard to validate. What follows is my best attempt - so far as each update goes - of the history and content of each release. However, I am fairly confident that only three sets of material were ever released prior to the 2010 release of the ABC series:
 
--   The original UK telefilm, usually retitled as "The Original Story."
+- The original UK telefilm, usually retitled as "The Original Story."
 
--   The six first-season episodes of the ABC series.
+- The six first-season episodes of the ABC series.
 
--   A very rare compilation of highlights from the Channel Four/Cinemax talk shows.
+- A very rare compilation of highlights from the Channel Four/Cinemax talk shows.
 
 All other material found in private hands before 2010 was off-air recordings from the original broadcasts or otherwise bootleg. The second ABC season and the four seasons of talk/video shows were never formally released.
 

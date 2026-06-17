@@ -1,7 +1,8 @@
 ---
-title: "Max: Advertising"
+title: "Adverts"
+layout: "layouts/page.njk"
+permalink: /infobanks/adverts/index.html
 
-slug: "max-advertising"
 ---
 
 Max Headroom was basically born as an advertising avatar, to promote both the new Channel Four and his own initial show. He has been used by a number of advertisers since, including a late return to Channel Four.

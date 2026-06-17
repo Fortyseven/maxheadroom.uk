@@ -1,7 +1,6 @@
 ---
-title: "Max: Parodies"
-
-slug: "max-parodies"
+title: "Parodies"
+permalink: /infobanks/parodies/index.html
 ---
 
 A satirist must often suffer the same slings and arrows in return. Max Headroom has been parodied, satirized and paid homage in a surprisingly broad variety of ways.
