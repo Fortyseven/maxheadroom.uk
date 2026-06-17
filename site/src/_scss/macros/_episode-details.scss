@@ -1,3 +1,5 @@
+@use "../colors" as *;
+
 table.episode-details {
     max-width: 400px;
     width: 50%;
@@ -7,7 +9,24 @@ table.episode-details {
 
     th,
     td {
-        border-color: var(--color-cyan) !important;
+        border-color: $color-cyan !important;
+    }
+
+    .label {
+        color: $color-yellow;
+    }
+
+    .frames {
+        td {
+            border: none;
+
+            padding: 1em;
+
+            img {
+                width: 100%;
+            }
+        }
+
     }
 
     @media (max-width: 768px) {

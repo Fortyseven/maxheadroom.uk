@@ -1,0 +1,106 @@
+---
+title: "Episode CH4.2.4"
+
+slug: "episode-ch4-2-4"
+---
+
+| Key         | Value                 |
+| ----------- | --------------------- |
+|             | Episode CH4.2.4       |
+| Title       | The Max Headroom Show |
+| US Air Date | 4 Dec 1985            |
+| UK Air Date | 5 Aug 1986            |
+| Length      | 30 minutes            |
+| Guests      | Roger Daltrey         |
+| Crew        | Talk Show Crew]]      |
+| Matt Frewer | Max Headroom          |
+
+The fourth episode of the first season of the Max Headroom talk show featured _The Who_ lead singer Roger Daltrey.
+
+_The MaxRchives contain a complete recording of the Cinemax version of this episode._
+
+## Videos & Segments
+
+-   Max introduces the show by saying he'll be "squeezing a line or three later on" from Roger Daltrey.
+
+-   Video: Ultravox, "Love's Great Adventure"
+
+-   Max comments on using St. Christopher for driving safety.
+
+-   Video: Madness, "Driving in My Car"
+
+-   Max makes an observation about how stupid moths are.
+
+-   Video: Heaven 17, "Let Me Go"
+
+-   Max has a conversation with the time announcer.
+
+-   Video: Go West, "Call Me"
+
+-   Max and his guest Roger Daltrey talk about:
+
+-   Max greets Daltrey and makes fun of his big gold rings. "Hi, there, old buddy, old chum... we meet at last."
+
+-   What Roger likes about acting ("It's great to get paid for dressing up.")
+
+-   Roger's plans to direct a movie (which appears to have never happened...)
+
+-   Video: The Pale Fountains, "Jean's Not Happening"
+
+-   Daltrey's fascination with criminals.
+
+-   His new album "Under a Raging Moon." ("What's wrong with 'Roger Daltrey Sings Again'?)
+
+-   Video: Roger Daltrey, "After The Fire"
+
+-   Performers on the new album, including Zach Starkey ("He's much better than his dad...")
+
+-   Daltrey's urge to still get up on stage and show off, and the Live Aid concert with _The Who_.
+
+-   Golf. ("Oh, that's an old man's sport!")
+
+-   Daltrey prefers "physical jerks" - much more fun.
+
+-   Daltrey can't find an opener for his bottle, chips it open on the bar edge.
+
+-   Max thanks Roger - "You've been a brick. No, you've been a real breeze block!"
+
+-   Max gives Roger an Oscar statuette. "I ask only two things... display it proudly, and rub-rub off the name 'Steven Spielberg.'"
+
+-   Video: Elton John & Millie Jackson, "Act of War"
+
+-   Max closes out the show with his usual self-congratulations. (So usual, they're a re-run...)
+
+-   Roger Daltrey: "Get a bottle opener next time."
+
+## Quotes & Caps
+
+![mhcom_max_roger_daltrey.jpg](https://placehold.co/600x400?text=mhcom_max_roger_daltrey.jpg)
+
+(_Max's speech in these shows uses extreme stuttering and repetition, which I will not attempt to replicate in the transcriptions here. You can assume that any stutter noted goes on many times longer._)
+
+-   Max: "Coming up - coming up-yes! yes! (makes O-face) soon on my show, yes, coming up-coming up (sorry, I used to work in an elevator), yes, I'll be squeezing a line or three out of Mr. Roger Daltrey. (aside) Rog? Be with ya in a moment. Take it easy, will ya?"
+
+-   Max: "Hi. If you want to feel safer in _your_ car, the most popular method is to buy a... St. Christopher. ("Winning smile.") Light up. And what most people like to do is hang it in their windscreen. This is a _good_ idea... because it swings around and distracts you on long journeys. (Sound of car failing to start.) And if you think that's bad, then..."
+
+-   Max: "Of all the creatures in the cos-cos-cosmos, how come the moth is so stu-stupid? It hates the light, it only comes out in the dark, and then it spends all night beating itself silly. And where? Against the light bulb. So if any of you dumbo moths are listening, come out in the day... there's light _everywhere_."
+
+-   Time Announcer: "...third stroke, it will be ten-twenty nine, precisely..."
+
+: Max: "Uh, huh... okay, right..."
+
+: Time Announcer: "At the third stroke, it will be two-sixteen and twenty seconds."
+
+: Max: "Yeah, uh-huh, yeah..."
+
+-   Max: "I know what it's like to be an exhibitionist, big fella... I'm not one myself, I'm far too humble - modest - that kind of thing... I know the attraction of disporting one's self on stage. Is there still a big urge to get up there and show-show it all off, kind of zip off the Levi's and bingo, Bob's your uncle?"
+
+: Roger Daltrey: "Of course there is. It's like a drug - you become addicted to it."
+
+-   Roger Daltrey: "Where's the [bottle] opener?"
+
+: Max: "Just crack it on the table. Crack-crack it on the TV, if you like... it's made of uranium. I won't feel a thing."
+
+The closing riff is an edited version of the one used for [Episode CH4.2.2](episode-ch4-2-2.md):
+
+-   Max: "(sobbing)...and I'd like to take this opportunity of thanking the one and only... (grins) Max Headroom, for giving you all such a wonderful time. So, what about next week? What do the papers say about my show? Wonderful! Stylish! Extraordinary! Sen-sational! Hey! Hey! Could be descriptions of me-me-me, couldn't they? But no, 'cuz next week it's vid-vid-video-videos! [...] S-s-s-so: don't miss me next week! And once again... thank you! Thank you! Thank you... Max! (Isn't he great?)"

@@ -1,6 +1,6 @@
 @use "./fonts" as *;
 @use "./colors" as *;
-@use "./macros/episode-details" as *;
+@use "./macros/episode-details";
 
 body {
     max-width: 1440px;
@@ -8,51 +8,61 @@ body {
 
     font-family: "Saira", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 200;
+    // font-weight: 400;
     font-style: normal;
-    font-size: 18pt;
+    font-size: 20pt;
     line-height: 1.2;
 
     padding-inline: 2rem;
 
     background: repeating-linear-gradient(0deg,
-            var(--bg-grid-color) 0px,
-            var(--bg-grid-color) 1px,
+            $bg-grid-color 0px,
+            $bg-grid-color 1px,
             transparent 1px,
             transparent 40px),
         repeating-linear-gradient(90deg,
-            var(--bg-grid-color2) 0px,
-            var(--bg-grid-color2) 1px,
+            $bg-grid-color2 0px,
+            $bg-grid-color2 1px,
             transparent 1px,
             transparent 40px);
     animation: grid-move 4s linear infinite;
     background-color: #000;
-    color: var(--color-primary);
+    color: $color-primary;
     z-index: 0;
 
     @keyframes grid-move {
         0% {
-            background-position:
-                0 0,
+            background-position: 0 0,
                 0 0;
         }
 
         100% {
-            background-position:
-                40px 40px,
+            background-position: 40px 40px,
                 40px 40px;
         }
     }
 
     a {
-        color: var(--color-secondary);
+        color: $color-secondary;
         font-weight: 400;
     }
 
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        text-transform: uppercase;
+        font-family: "Bryce", "Saira", sans-serif;
+
+    }
+
     header > h1:first-of-type {
-        color: var(--color-cyan) !important;
+        color: $color-cyan !important;
         text-transform: uppercase;
         text-align: center;
+        text-shadow: 0 0 2rem #0ff;
 
         &:after {
             // cursor
@@ -76,17 +86,20 @@ body {
     }
 
     h1 {
-        color: var(--color-yellow);
+        color: $color-yellow;
+        text-shadow: 0 0 2rem #ff0;
     }
 
     h2 {
-        color: var(--color-red);
+        color: $color-red;
+        text-shadow: 0 0 2rem #f88;
     }
 
     h3 {
-        color: var(--color-green);
+        color: $color-green;
         text-align: center;
         margin-top: 2em;
+        text-shadow: 0 0 2rem #8f8;
     }
 
     p {
@@ -95,7 +108,7 @@ body {
 
         b,
         strong {
-            color: var(--color-yellow);
+            color: $color-yellow;
             font-weight: bold;
         }
 
@@ -121,12 +134,12 @@ body {
             }
 
             th {
-                color: var(--color-blue);
+                color: $color-blue;
             }
 
             td.label {
                 font-weight: bold;
-                color: var(--color-yellow);
+                color: $color-yellow;
             }
         }
 

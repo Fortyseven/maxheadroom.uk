@@ -14,6 +14,12 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget("./src/assets/");
     eleventyConfig.addWatchTarget("./src/css/");
 
+    // Scoped to input dir to avoid matching node_modules/ and the output dir.
+    eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
+    eleventyConfig.addPassthroughCopy("./src/**/*.png");
+    eleventyConfig.addPassthroughCopy("./src/**/*.gif");
+    eleventyConfig.addPassthroughCopy("./src/**/*.webp");
+    
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
     const markdownLib = markdownIt(markdownItOptions)

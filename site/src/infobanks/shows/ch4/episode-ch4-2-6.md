@@ -1,0 +1,103 @@
+---
+title: "Episode CH4.2.6"
+
+slug: "episode-ch4-2-6"
+---
+
+| Key         | Value                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------- |
+|             | Episode CH4.2.6                                                                         |
+| Title       | The Max Headroom Show                                                                   |
+| US Air Date | 18 Dec 1985                                                                             |
+| UK Air Date | 19 Aug 1986                                                                             |
+| Length      | 30 minutes                                                                              |
+| Guests      | Boy George                                                                              |
+| Links       | [YouTube](https://www.youtube.com/watch?v=oaHFAp4P5VU)The Boy George interview segment. |
+| Crew        | Talk Show Crew]]                                                                        |
+| Matt Frewer | Max Headroom                                                                            |
+
+The last episode of the second season of the Max Headroom talk show featured _Culture Club_ lead singer Boy George.
+
+_The MaxRchives contain a complete recording of the Cinemax version of this episode. A clip of of the Boy George interview can be found on YouTube._
+
+## Videos & Segments
+
+-   Max introduces the show and his guest Boy George.
+
+-   Video: The Police, "Synchronicity II"
+
+-   Max sulks about his lack of fan mail.
+
+-   Video: Belouis Some, "Imagination"
+
+-   Max compares the US to an epic movie.
+
+-   Video: Paul Hardcastle, "19"
+
+-   Max muses about Beethoven's deafness.
+
+-   Video: Black Lace, "Agadoo"
+
+-   Max and his guest Boy George talk about:
+
+-   What to call each other
+
+-   Sanity and insane asylums and recording Culture Club's next album in Switzerland
+
+-   Clip from video: Culture Club, "Victims"
+
+-   Max asks George about golf and gets a scorching reply
+
+-   Video: Culture Club, "Victims"
+
+-   George's book & Max's book (Max yawns and gets zinged again)
+
+-   Acting on "The A-Team" and "Dynasty"
+
+-   Max is back to golf...
+
+-   Video: Culture Club, "Victims" concludes
+
+-   Minorities & gays
+
+-   The Athens concert (George refuses to answer)
+
+-   Video: Bonzo Dog Doo Da Band, "Urban Spaceman"
+
+-   Insert: Max chides George for touching up his makeup with a powderpuff
+
+-   George's career ("I'd like to go about ten more years.")
+
+-   Max gives George an autograph book with his signature on the first page and insists that he not thank him.
+
+-   Max croons "It's Been a Great Show" to close the show and the season - all about his own wonderfulness, of course - in what might be the first appearance of his white suit.
+
+## Notes & Commentary
+
+Max makes passing references to a number of provocative, even touchy subjects with George, who ignores or brushes them off. At this time, George was refusing to talk about his sexuality and did not come out as "militantly gay" for a number of years, so Max's comments about supporting gay causes are more edged than they might seem. (He also threw gay comments at Simon LeBon; it's hard to imagine these near-slurs would have been allowed in later eras.)
+
+The question about the Athens concert is interesting. Although mostly forgotten, the punk/Anglo music concert in late July 1985 was a tense, fraught conflict between performers from a disliked culture performing in the midst of another. The performers were booed and pelted and near-riot conditions persisted. You'll find an [excellent writeup here](https://punkarchaeology.wordpress.com/2011/01/11/rock-in-athens-85/).
+
+Max (Matt Frewer) again calls the guest gift a "momento" - as he did with Sting's golf shoes.
+
+## Quotes & Caps
+
+![mhcom_max_boy_george.jpg](https://placehold.co/600x400?text=mhcom_max_boy_george.jpg)
+
+(_Max's speech in these shows uses extreme stuttering and repetition, which I will not attempt to replicate in the transcriptions here. You can assume that any stutter noted goes on many times longer._)
+
+-   Max: "Here on the Max-Max Headroom show, I'll be having a head to head, shoulder to shoulder, eyeball to eyeball, mascara to mascara-to mascara confrontation with Boy George. Could be messy. I don't know who's more nervous: Boy-Boy-Boy... or George."
+
+-   Max: "Fan mail. Well, I haven't had any yet.
+
+-   Max: "Who was it that said watching the United States is like watching an epic movie. Oscar Wilde? Woody Allen? ...M-M-Max Headroom. Just think: they've got an actor for a president, economic advisors called projectionists, even their latest defense strategy is named after a film: _Star Wars_. And why pick on that one? Why not something gentler, like _Kramer Vs. Kramer_? And of course, everywhere in the world to them is just a theater of operations... except when they're fighting in it. And then, it's a theater... of war."
+
+-   Max: "You know, I was singing that tune just the other day. And I got a kind of... heh, heh... a kind of ringing in my ears and suddenly I couldn't hear a thing. And I thought: if Beethoven was deaf as a post, how did he know what he was playing? For example: if his piano was out of tune when he played 'duh-duh-duh-DUM,' what was the tune he was actually playing in his head? It could have been 'aga-doo-doo, aga-doo-doo' - it's a pity, because he could have had a big hit with that."
+
+-   Max: "Now, this could be tough for you, because I'd like to get right down to that olllld nitty-gritty. The bottom. Line, as they say. And ask you this question: What do you think of golf?"
+
+: Boy George: "Well, I've got better things to do with my balls."
+
+-   Max: (yawns) "Sounds like a heavy, serious, down-to-earth, kinda... ball-ball-ballsy book."
+
+: Boy George: "You should read it. It has a lot of advice for abnormal people, you'd enjoy it."

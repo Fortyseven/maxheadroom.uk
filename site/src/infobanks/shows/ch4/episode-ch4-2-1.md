@@ -1,0 +1,111 @@
+---
+title: "Episode CH4.2.1"
+
+slug: "episode-ch4-2-1"
+---
+
+| Key         | Value                                                                                                                                     |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+|             | Episode CH4.2.1                                                                                                                           |
+| Title       | The Max Headroom Show                                                                                                                     |
+| US Air Date | 13 Nov 1985                                                                                                                               |
+| UK Air Date | 15 Jul 1986                                                                                                                               |
+| Length      | 24 minutes                                                                                                                                |
+| Guests      | Sting                                                                                                                                     |
+| Links       | [YouTube](https://www.youtube.com/watch?v=wAumSpIz0Kc)Sting interview segment through the cut to his video; version seen on Channel Four. |
+| Crew        | Talk Show Crew]]                                                                                                                          |
+| Matt Frewer | Max Headroom                                                                                                                              |
+
+The first Max Headroom show of the second season, with its new focus on guest interviews, featured a repeat of the Sting interview, but in a new edit.
+
+_The MaxRchives contain a complete recording of the Cinemax version of this episode. A clip of this version of the Sting interview, from the Channel Four broadcast, can be found on YouTube._
+
+## Videos & Segments
+
+(Colored text indicates material duplicated from the [previous show](episode-ch4-1-13.md).)
+
+-   American announcer introduces Max.
+
+-   Max outlines the show, including the interview with... Stung!
+
+-   Video: Jean-Michel Jarre, "Zoolook" (robot clip version).
+
+-   Max riff on having the audience's confidence, and how he is being pressured to include produce endorsements on the show. Leads into a short first version of the "Car Parts" monologue.
+
+-   The back of Max's head rocks out to...
+
+-   Video: King Kurt, "Designation Zululand"
+
+-   M-M-Max takes a call-in order for Chinese food, introducing...
+
+-   Video: Japan, "Visions of China"
+
+-   Max explains how for 12 weeks he's been allowed into our homes, and now he's going to let us into his, to interview Sting. (Previous-show reference omitted in Cinemax edit.)
+
+-   Max and his guest Sting talk about:
+
+-   His new, solo album _The Dream of the Blue Turtles_
+
+-   Golf ("I hate golf, Max, you know this... it's an old man's game.")
+
+-   Jazz (Max yawns)
+
+-   Shoes
+
+-   A break away to the Cabaret Voltaire video "Sensoria"
+
+-   Back to shoes - brown, not black (Sting hates black shoes)
+
+-   Getting political in songs
+
+-   On being 33
+
+-   Playing his songs in foreign countries where they might not understand the lyrics (like America)
+
+-   Back to shoes...
+
+-   A break to show a short video clip accompanying the stage recording of "Kinky Boots" (Patrick McNee and Honor Blackman), which continues in snips through the following topics.
+
+-   ...Sting wears size 7.5 shoes.
+
+-   Mark Knopfler (Sting sasses Max)
+
+-   ...but what kind of shoes? Sting says sandals (which leads to a "Christ figure" joke).
+
+-   Sting's appearance in the film _The Bride_
+
+-   ...with a side trip about sandals again.
+
+-   Tennis (in golf shoes on Sting's court)
+
+-   A break to show the Sting video "If You Love Somebody Set Them Free."
+
+-   Sting bangs on the TV to wake Max up.
+
+-   Discussion of Sting's hair style, which he says is a hair weave.
+
+-   Max thanks Sting and gives him a memento... a pair of his very own golf shoes!
+
+-   Show's over; long Max riff on the guest star (himself) and the "crazy time" coming next time.
+
+## Notes & Commentary
+
+The Cinemax rebroadcast used a different voiceover announcer to open the show, not used in the UK.
+
+In the Channel Four version of this episode, Max's opening remarks of the Sting interview are reused from the prior show, including the internal reference to "the last twelve weeks" - which is anachronistic, as after that show, it would have been "the last _thirteen_ weeks." Which is odd, as Max gives a completely new introduction near the beginning of the show... it seems the interview intro could have been updated as well. The Cinemax version shortens the introduction to remove the entire reference to a prior show. (The Channel Four version can be seen in the YouTube clip; the Cinemax version comes from the MaxRchives.)
+
+The first part of the Sting interview is identical to what viewers would have seen just two weeks earlier, but then includes some new material towards the end.
+
+## Quotes & Caps
+
+![MH-CH4-1-13_Max-with-Sting_320.jpg](https://placehold.co/600x400?text=MH-CH4-1-13_Max-with-Sting_320.jpg)
+
+_This introduction was used on all six episodes of Season 2._
+
+-   (Cinemax) Announcer: "He's the toast of the town, lightly buttered. He's the non-fattening sugar substitute in your tea. He's a _bon vivant_, a _gaucho amigo_, a goombah, a mensch and the fifth Musketeer. He's the apple of your eye and _orange_ you glad he's here. Direct from a wax and shine at the car wash around the corner, it's the man of the hour (oh, for at least a good 30 minutes)... Max Headroom!"
+
+(_Max's speech in these shows uses extreme stuttering and repetition, which I will not attempt to replicate in the transcriptions here. You can assume that any stutter noted goes on many times longer._)
+
+-   Max: "I'm going to take over your T-T-TV. I'm gonna read the news, check the weather, talk about sports, meet the public, give away prizes, walk the dog, and play videos! videos! And don't forget, later in the show I'm gonna to be talking to the super-superstar with the five-star talent, and... the five-letter name. Yes! You guessed it... Stung! (reacts) Sting!"
+
+-   Max: "...Yes, I _do_ think you have the wrong 'Visions of China.' Okay, bye-bye-bye. ...What a shame, I was beginning to enjoy that. Well, it's like they say - you take one Chinese food order, and five minutes later you feel like another one."

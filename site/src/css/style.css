@@ -1,15 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap");
+@font-face {
+  font-family: "Bryce";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/assets/fonts/brutalita-custom/BrutalitaCustom-300.otf") format("opentype");
+}
+@font-face {
+  font-family: "Bryce";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/brutalita-custom/BrutalitaCustom-400.otf") format("opentype");
+}
+@font-face {
+  font-family: "Bryce";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/assets/fonts/brutalita-custom/BrutalitaCustom-700.otf") format("opentype");
+}
 :root {
   /* --bg-grid-color2: #0ff2; */
-  --bg-grid-color: #0ff2;
-  --bg-grid-color2: #0ff2;
-  --color-red: $color-red;
-  --color-blue: $color-blue;
-  --color-green: $color-green;
-  --color-yellow: $color-yellow;
-  --color-cyan: $color-cyan;
-  --color-primary: #ddd;
-  --color-secondary: #0ff;
 }
 
 table.episode-details {
@@ -20,7 +29,17 @@ table.episode-details {
 }
 table.episode-details th,
 table.episode-details td {
-  border-color: var(--color-cyan) !important;
+  border-color: #6bb !important;
+}
+table.episode-details .label {
+  color: #cc6;
+}
+table.episode-details .frames td {
+  border: none;
+  padding: 1em;
+}
+table.episode-details .frames td img {
+  width: 100%;
 }
 @media (max-width: 768px) {
   table.episode-details {
@@ -44,15 +63,14 @@ body {
   margin: auto;
   font-family: "Saira", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 200;
   font-style: normal;
-  font-size: 18pt;
+  font-size: 20pt;
   line-height: 1.2;
   padding-inline: 2rem;
-  background: repeating-linear-gradient(0deg, var(--bg-grid-color) 0px, var(--bg-grid-color) 1px, transparent 1px, transparent 40px), repeating-linear-gradient(90deg, var(--bg-grid-color2) 0px, var(--bg-grid-color2) 1px, transparent 1px, transparent 40px);
+  background: repeating-linear-gradient(0deg, rgba(0, 255, 255, 0.1333333333) 0px, rgba(0, 255, 255, 0.1333333333) 1px, transparent 1px, transparent 40px), repeating-linear-gradient(90deg, rgba(0, 255, 255, 0.1333333333) 0px, rgba(0, 255, 255, 0.1333333333) 1px, transparent 1px, transparent 40px);
   animation: grid-move 4s linear infinite;
   background-color: #000;
-  color: var(--color-primary);
+  color: #ddd;
   z-index: 0;
 }
 @keyframes grid-move {
@@ -64,13 +82,23 @@ body {
   }
 }
 body a {
-  color: var(--color-secondary);
+  color: #0ff;
   font-weight: 400;
 }
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  text-transform: uppercase;
+  font-family: "Bryce", "Saira", sans-serif;
+}
 body header > h1:first-of-type {
-  color: var(--color-cyan) !important;
+  color: #6bb !important;
   text-transform: uppercase;
   text-align: center;
+  text-shadow: 0 0 2rem #0ff;
 }
 body header > h1:first-of-type:after {
   content: "_";
@@ -86,15 +114,18 @@ body header > h1:first-of-type:after {
   }
 }
 body h1 {
-  color: var(--color-yellow);
+  color: #cc6;
+  text-shadow: 0 0 2rem #ff0;
 }
 body h2 {
-  color: var(--color-red);
+  color: #f66;
+  text-shadow: 0 0 2rem #f88;
 }
 body h3 {
-  color: var(--color-green);
+  color: #6b6;
   text-align: center;
   margin-top: 2em;
+  text-shadow: 0 0 2rem #8f8;
 }
 body p {
   text-align: justify;
@@ -102,7 +133,7 @@ body p {
 }
 body p b,
 body p strong {
-  color: var(--color-yellow);
+  color: #cc6;
   font-weight: bold;
 }
 body ul {
@@ -120,11 +151,11 @@ body table tr td {
   text-align: center;
 }
 body table tr th {
-  color: var(--color-blue);
+  color: #66f;
 }
 body table tr td.label {
   font-weight: bold;
-  color: var(--color-yellow);
+  color: #cc6;
 }
 @media (max-width: 768px) {
   body table {

@@ -1,0 +1,158 @@
+---
+title: "Episode CH4.3.4"
+
+slug: "episode-ch4-3-4"
+---
+
+| Key         | Value                 |
+| ----------- | --------------------- |
+|             | Episode CH4.3.4       |
+| Title       | The Max Headroom Show |
+| US Air Date | 12 Sep 1986           |
+| UK Air Date | 27 Jan 1987           |
+| Length      | 30 minutes            |
+| Guests      | Tracey Ullman         |
+| Crew        | Talk Show Crew]]      |
+| Matt Frewer | Max Headroom          |
+
+The third episode of the second Channel Four season of the Max Headroom talk show featured singer, actress and comedienne Tracey Ullman.
+
+_The MaxRchives contain complete recordings of both the US and UK broadcasts of this episode._
+
+## Videos & Segments
+
+-   Max appears among a blur of technical and video faults. (In the UK version, a distorted and shattered "4" logo appears; in the US version, those are replaced by the "Cinemax Presents" slide, which briefly appears upside down.)
+
+-   Max apologizes - it's the pressure of being a star, and the guys around him are idle.
+
+-   Max plays a concerto on a grand piano, but battles with the rest of the orchestra coming in too soon.
+
+-   Max does a cockney huckster riff to the "ladies," throwing in one thing (a video) after another (an interview) for free, even though it's costing him.
+
+-   Video: The Smiths, "Panic"
+
+-   Max riffs about his early days as an actor in an old Englishman's accent.
+
+-   Brief black and white clip of a comedian singing "Figaro."
+
+-   And this week we're in... America! Land of delis and cowpokes!
+
+-   Brief black and white clip of women wearing bizarre glasses, including a shot of Max in the scissor glasses from the Vidal Sassoon episode.
+
+-   Back to America... land of bulletproof politicians and opportunistic muggers.
+
+_There are significant differences between the UK and US versions at this point._
+
+-   US: Extended clip of mime Les Bubb doing... comedy dancing. (2:24)
+
+-   UK: Much shorter clip of Les Bubb. (0:45)
+
+-   UK: Max responds to the overwhelming viewer preference for commercials in the middle of the show. (0:16)
+
+-   UK: Commercial break: (2:39 total)
+
+-   UK: Chappel of Bond Street (musical instruments)
+
+-   UK: Timotei hair conditioner
+
+-   UK: National & Provincial Building Society (mortgages)
+
+-   UK: Batchelor's Cup of Soup
+
+-   UK: "Dishwash Electric" - generic ad for dishwashers as convenience
+
+-   UK: Sensodyne toothpaste
+
+-   UK: Max Headroom Show placeholder card.
+
+-   UK: Continuation of Les Bubb clip (shorter than US version). (1:25)
+
+-   Max Headroom title card and announcement that they have temporarily lost the show.
+
+-   Meanwhile, rather depressing WWI-era B&W film clips are shown, with happy musical score.
+
+-   And it's 'Quiz!' time again!
+
+-   Max knows, because the munchkins are singing the theme song. ("Bury those dwarves!")
+
+-   The question tonight: "How many of you have imagined yourself talking to... a star?"
+
+-   Max picks Seamus (Max: "Sorry...") from the audience and guides him through an introduction to a special guest meant to make him a "star charmer."
+
+-   Seamus introduces Tracey Ullman, who comes on and kisses him.
+
+-   Video: Tracey Ullman, "Breakaway"
+
+-   Max and his guest Tracey Ullman talk about:
+
+-   Not being a Cockney - she's from Surrey, like Fergie, and started off more posh.
+
+-   Her daughter's name, Mabel Ellen McKeown.
+
+-   What is she doing? Resting, working... or playing golf?
+
+-   Video: Peter Gabriel, "Sledgehammer" intro.
+
+-   Max slides in - "Sorry, there was a dachshund nibbling on my ankle, there." (Dak-sund?)
+
+-   Plans for her first show in America, and how she wants it to be different, and producers want everything to be formulaic. (Shades of the problems with the ABC series!)
+
+-   Tracey doesn't want to work with cute children on the show.
+
+-   Peter Gabriel, "Sledgehammer" continues.
+
+-   Does being married to a millionaire take the edge off her motivation to work? ("No.")
+
+-   Tracey's start on a UK comedy show that sank "without a Trace" when she left.
+
+-   Her film career with Meryl Streep in "Plenty."
+
+-   Her brief music career - "It was a laugh."
+
+-   Max's appearance in "Paranoimia."
+
+-   Max's coke ads in America and how he should be raking it in.
+
+-   Luck and careers. "Yes, I've been lucky."
+
+-   Peter Gabriel, "Sledgehammer" concludes.
+
+-   Max riffs on how wonderful parties are.
+
+-   Over the closing credits, Max laughs hysterically and yells "Stop it!" at something below the line of the TV frame.
+
+## Notes & Commentary
+
+This is one of the few places where the show recordings in the MaxRchives let us compare the US and UK versions in detail. There are significant differences in this show, moreso than in the three previous entries this season. Other than the change from the Channel 4 logo to the Cinemax title card in the opening sequence here, the differences between the two runs appear to be omitting any reference to a commercial break in the middle of the show - which was done in the UK, but not on "premium, no-ads" Cinemax. As the shows were aired first in the US, it's hard to say whether both versions were shot and edited simultaneously or the UK versions are later edits.
+
+Max refers to Tracey Ullman several times as "Trace," which may be simple jocularity/familiarity. However, her birth name was... Trace.
+
+The discussion of Ullman's US series would come to fruition about seven months later in "The Tracey Ullman Show," which ran from 1987 to 2000, a total of four seasons of variety perfomances by Tracey as singer, dancer and comedian. There are many comparisons between this show and Max's early days: it premiered in the first week of April on a new network (Fox) struggling to create fresh material, and each network gave its unorthodox performer a lot of control and freedom. (Ullman's show is perhaps most famous and best remembered as the genesis of the long-running animated show "The Simpsons," which started as brief advertising "bumper" skits on her show.)
+
+All in all, a fairly quiet episode of this season.
+
+## Quotes & Caps
+
+![Mhcom_s3e04_max_tracey_ullmann.jpg](https://placehold.co/600x400?text=Mhcom_s3e04_max_tracey_ullmann.jpg) _Max and Tracey Ullman talk about babies._
+
+(_Max's speech in this season finally stops using the extreme stuttering and repetition, probably as much for technical, audience and production reasons as because it was getting tiresome. I am still trimming such repetitions to minimum indicators here in the transcriptions._)
+
+-   Max: "Ha... I'm sorry. It's the pressure of being a star. You know how it is. Oh... you don't. But I do. From time to time I get a little bit... temperamental with the guys around me. You see, I'm the idol of millions, and, well, that's the trouble. They're idle... and I earn millions."
+
+-   Max: "Well, where am I... (whistles first notes of 'The Star Spangled Banner') Yep, you guessed it. Give me an A for Anglo-Saxons, an M for Mexicans, E for Europeans, R for Russians, I for Italians, give me a C for Costa Ricans, an A for Africans, and what have you got... besides a lot of letters? America, America... Yes, what a mixed bag of a country this is - home of the Chevrolet, home of the home run and don't forget, home of the brave. Eh... was til they wiped 'em all out. Yes, America, where the Indians have never been forgiven for getting there first. And why? Because the Indians didn't introduce anything decent to eat, that's why! The Poles gave 'em pickled gherkins, the Italians brought over pizza, the Germans, sauerkraut... put 'em all together, and whaddya got? Jewish delicatessen. And because Americans don't have to move out of their own country to find every style of terrain, weather and loud checked trousers. Yes-s-s! And it's a troubled country, which has come through the McCarthy trial and tribulation because it ha-has its foundations firmly based on the principles of liberty, fraternity and Laurel and Hardy. Course. Course. And, of course, freedom of speech... something they should never have told Dr. Ruth Westheimer about. But-but-but let's take a good look at what has emerged from a land where having chaps on your legs was something you can talk about openly. From the land of the chuck wagon and... cowpoke. Who got his name from... poking cows. (Let's hope it was with a stick.) Well, c'mon, it's a lonely job driving cattle, right?"
+
+-   Max: "Yes. Yes. America is a health-conscious nation too. They live in fear of contagious diseases like herpes, AIDS, being a one-car family. And it's a place where winning means success and losing means a walk-on part in Dynasty. But they don't just think about money; sometimes they think about how best to throw it away, like having a President driven around in an expensive bullet-proof limousine when he already has a perfectly good bullet-proof head. But I won't be unfair, because it's a well-known fact American politicians are the best money can buy. And, let's just take one final look at what makes America great. Well... of course it's the land of opportunity, where the streets are paved with gold... and whatever else muggers drop as they run away."
+
+-   Max: "And, you'll remember that on the last show, we asked you to write in and tell us whether you really wanted to see commercials in the middle of the show. And your response was overwhelming! But, I'm afraid it's about the money-money-money-money... arf"
+
+-   Max: (Cockney accent) "Aw ri', dahling, easy question from one artiste to another, Trace, my little rhubarb tart: What are you doing at the moment - resting, working or do-do-doing what most comedians do and playing gol-golf?"
+
+: Tracey Ullman: "My husband plays a lot of golf, Max... and it really gets on my tits."
+
+-   Max: "Okay, you have some hush-hush plans for a series in the States. Now, do you want to share it with your dirty Uncle Max? Tell all, tell all, tell me dahlin'!"
+
+: Tracey Ullman: "[...] I couldn't tell you - I'm not going to give you the scoop on your show. [...] But you go in with good intentions for an American TV show - you want to make it different and you know, a bit cruel and everything, and they always want to make it the (changes to American accent) 'care and share show.' 'Tracey, there is a problem with the beginning of the show, and everyone's happy at the end, with caring and sharing.' They say, 'How about a cute little kid with a little cap, you know, that helps Tracey out and says "Let's eat pizza!" and they always want to get some cute little kid in with you, and I don't like cute little kids, you know. Some little kids."
+
+: Max: "Quite often they're muggers. Short muggers, and your knees take a real beating."
+
+-   Max: "Oh, yeah, Saturday night.... Saturday night! Yeah, that's right, it's party time, and we're all off to... eyuh, Simon and Amanda's. Oh, yeah, aren't parties great? Where else can you stroll uninvited into the home of two complete strangers, sneer at their decor, sneer at their music, stub out a cigarette on their carpet, and then stagger into the kitchen for a plate of Hungarian liebfraumilch with lumps of cork floating in it? Hmm? Where else can you guys practice your eye to eye contact and try out that line you rehearsed in front of the mirror: 'Say, lady, what say we wrinkle some underlay tonight?' (That's always worked for m-m-m-me.) Where else can you spend the evening groping well-dressed girls bopping all over the floor and broken glass and other peoples' feet, then head back into the kitchen for a large bowl of rice salad with one shrimp in it, and another fifteen glasses of semi-sparkling bat-batter-battery acid while enjoying an urgent discussion on the art of the quarterback, quickly followed by an even more urgent discussion with the heart of the toilet bowl? Yes, yes... yes. Parties. Where else can you make a complete asshole of yourself?"

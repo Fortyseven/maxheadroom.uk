@@ -1,0 +1,116 @@
+---
+title: "Episode CH4.1.13"
+
+slug: "episode-ch4-1-13"
+---
+
+| Episode CH4.1.13                                       |                                                               |                                                            |
+| ------------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| Title                                                  | The Max Headroom Show                                         |                                                            |
+| UK Air Date                                            | 29 Jun 1985                                                   |                                                            |
+| US Air Date                                            | NA                                                            |                                                            |
+| Length                                                 | 30 minutes                                                    |                                                            |
+| Links                                                  | [YouTube](https://www.youtube.com/watch?v=mkyIz6tucpc)        | First part of episode(Opening through middle of interview) |
+| [YouTube](https://www.youtube.com/watch?v=JQDGxgWsngI) | Second part of episode(Rest of interview through end credits) |                                                            |
+| Crew                                                   | Talk Show Crew]]                                              |                                                            |
+| Matt Frewer                                            | Max Headroom                                                  |                                                            |
+
+This crossover episode is the final one of the original Max Headroom video show, and featured a few video clips along with Max's introductions and riffs, but focused on his first interview, with Sting.
+
+_The MaxRchives contain a complete recording of this episode. There are also two badly-labeled clips on YouTube that make up the entire show as originally run on Channel Four._
+
+## Videos & Segments
+
+-   A bored couple argues in voiceover about Max and watching the show. ("His last"?)
+
+-   Announcer introduces Max.
+
+-   Opening riff by Max:
+
+-   Thank you (once or twenty times)
+
+-   It's time for the new game show, "Get Excited!" (Max introduces his lovely assistants, explains the rules and tells how the Excite-O-Graph will determine who goes on to the next round.)
+
+-   Max tells some golf jokes, followed by some Formula 1 jokes.
+
+-   "Isn't it amazing how things can go wrong? The best laid plans of Max and men..."
+
+-   Max announces his interview with Sting, who showed up at 7 a.m. at his home.
+
+-   (Commercial break - Clairol, Tennant's and In-Toto)
+
+-   Max explains how for 12 weeks he's been allowed into our homes, and now he's going to let us into his, to interview Sting.
+
+-   Max and his guest Sting talk about:
+
+-   His new, solo album _The Dream of the Blue Turtles_
+
+-   Golf ("I hate golf, Max, you know this... it's an old man's game.")
+
+-   Jazz (Max yawns)
+
+-   Shoes
+
+-   A break for Max to introduce and then show the Redskins video "Bring It Down" (with extensive interruptions and an early cut-away)
+
+-   Back to shoes - brown, not black (Sting hates black shoes)
+
+-   Getting political in songs
+
+-   On being 33
+
+-   Playing his songs in foreign countries where they might not understand the lyrics (like America)
+
+-   Back to shoes...
+
+-   A break for a Max video riff about golf
+
+-   Discussion of Sting's hair style, which he says is a hair weave
+
+-   Max thanks Sting and gives him a memento... a pair of his very own golf shoes!
+
+-   Video clip: Backster's "Handclappin'," followed by a clip from Sid Vicious' cover of "My Way" in which he shoots at the audience.
+
+-   Max says it's been a damn great show and sings a song to that effect, segueing into a long closing riff about how great he is and how everyone will remember the show, and then back into the song.
+
+## Notes & Commentary
+
+This show, part of the "lost" first season, would be re-used in large part for the first show of the second season, which would appear a few months later on Cinemax (possibly re-cut). There is more of the Sting interview to be seen in that repeat edit.
+
+Max's comment that he's never had a guest "because he couldn't talk properly enough to have an intelligent conversation" is an inside reference to the problems of doing Max's stutters, repeats and visual shenanigans in realtime. With a solution found, Max could do these interviews - on his show, and with Terry Wogan and David Letterman.
+
+## Quotes & Caps
+
+![MH-CH4-1-13_Max-with-Sting_320.jpg](https://placehold.co/600x400?text=MH-CH4-1-13_Max-with-Sting_320.jpg)
+
+-   Male Viewer: "Whyn't you sit still and _try_ to watch."
+
+: Female Viewer: "Watch what?"
+
+: Male Viewer: "Max Headroom. It's his last show."
+
+: Female Viewer: "Oh, yeah? 'Oo's 'e?"
+
+: Male Viewer: "Who's 'e! Well, 'e's this bloke. Well, sort of... well, he's sort of... well, 'alf and 'alf, if you know what I mean.
+
+: Female Viewer: "Oh, yeah, sounds great."
+
+: Male Viewer: "All right, all right! If you must know, 'e's a computer-generated microcosm of the television age, incorporatin' a fusion of visual and verbal originality, to represent the in'erant diverse of the all-round TV personality. And 'e plays pop videos and all.
+
+: Female Viewer: "Oh, that Max 'Eadroom."
+
+-   Announcer: "Good morning, Sydney! Good afternoon, Los Angeles! Good evening, England! And it's the Max Headroom Show! Tonight on the show, it's more pop videos! Max gives away prizes, Max looks back, forward, and meets the stars with his old buddy Sting. He's turned down a Pro-Am golf tournament to be here with you all tonight, he's the man of the moment, his is Mr. TV himself... Max Headroom!"
+
+-   Max: "Oh-oh-oh-k-k-k-kay. For the last twelve weeks, you have been kind enough to allow little old _moi_ into your home; now I'm going to let _vous_ into mine. And so, _ink-ga-da-dink-dink, dink-dink_, the Max Headroom Show takes a giant _whit whit_ leap sideways onto my cocktail bar as I welcome - at last, ha ha - a guest on my show."
+
+-   Max: "Sting... I want to thank you very much for coming on my show. And before you go, I'd like you to accept this... little... momento! [*sic*] A pair of my very own... golf shoes. (Sting groans) No, don't thank me..."
+
+: Sting: "Couldn't you have given me a pair of tennis shoes?
+
+: Max: "I don't have any tennis shoes. I've got 44 pairs of golf shoes and I'm giving you one pair of my golf shoes. Do you want them or not?
+
+: Sting: "Um... yeah, I'll take 'em."
+
+: Max: "Atta boy! See..."
+
+: Sting: "I'll exchange them for tennis shoes."

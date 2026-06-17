@@ -1,0 +1,100 @@
+---
+title: "Episode CH4.2.3"
+
+slug: "episode-ch4-2-3"
+---
+
+| Key         | Value                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ |
+|             | Episode CH4.2.3                                                                                                    |
+| Title       | The Max Headroom Show                                                                                              |
+| US Air Date | 20 Nov 1985                                                                                                        |
+| UK Air Date | 22 Jul 1986                                                                                                        |
+| Length      | 25 minutes                                                                                                         |
+| Creative    | _Arcadia_ interview directed by Phil Bishop                                                                        |
+| Guests      | _Arcadia_: Simon LeBon & Nick Rhodes                                                                               |
+| Links       | [YouTube](https://www.youtube.com/watch?v=iFLrVOetruQ)Complete show from the Channel Four broadcast, high quality. |
+| Crew        | Talk Show Crew]]                                                                                                   |
+| Matt Frewer | Max Headroom                                                                                                       |
+
+The third episode of the Max Headroom talk show featured Simon LeBon and Nick Rhodes promoting their _Duran Duran_ followup band, _Arcadia_.
+
+_The MaxRchives are fortunate to have recordings of both the Channel Four and Cinemax versions of this episode. The UK version is available, complete, on YouTube._
+
+## Videos & Segments
+
+-   Max introduces the show and his guests.
+
+-   Video: Intaferon, "Steamhammer Sam"
+
+-   Insert as LeBon says, "Nick, you look just like Richard Gere!"
+
+-   Max comments on having his game show idea stolen.
+
+-   Video: Bryan Adams, "Heaven"
+
+-   Max comments on Simon LeBon's favorite color, and odd shoes and gloves left lying about.
+
+-   Video: Jesse Rae, "Over The Sea"
+
+-   Max talks about posture and sleeping on futons.
+
+-   Commercial break (?)
+
+-   Max chides Nick for sitting in a wheelchair (a designer chair with big chrome loops on the sides) and gets them to sit at his bar for "big interview time." (Nick: "God, he's rude, as well!") They chat about:
+
+-   Doc Martins
+
+-   Max wants to clear one thing up (not their acne - but he isn't going to talk about golf). Who should he aim the questions at? Nick suggests in the middle, towards the fan. Max: "Ah, your one and only fan!"
+
+-   Video: Severed Heads, "Goodbye Tonsils"
+
+-   Max likes the name "Arcadia." Simon says it came from a book about the mythical land.
+
+-   Max asks Nick about the new album, "So Dead the Nose." Nick corrects him - it's "So Red the Rose" - and says of the cities it was recorded and mixed in, he prefers Paris to New York.
+
+-   Video: Arcadia, "Election Day"
+
+-   Max asks "SLB" (or "SOB"?) which city he liked better. Simon says he liked the girls in Paris and the money in New York...
+
+-   Max's next question is to both of them: "St. Andrews, Wentworth, St. Andrews, Augusta, St. Andrews, Glen Hills, St. Andrews, Wentworth... what would it mean to you?" Nick: "Definitely not golf."
+
+-   Max asks Simon about sailing. Simon: "Well, I don't know which way up I am..." and Max turns it into a gay joke.
+
+-   Simon accidentally says, "golf course... oh, sh*t" (poorly bleeped) "...I said sh*t... f\*ck," (Again poorly bleeped). Max: "Cut! Print it! I love it!"
+
+-   Max loves their records - "I use them for frisbees all the time" - and gives them each a small "snow storm" (snowglobe), which they pick up and shake. (One has a small sailboat, the other might be a skier on a mountain. "Simon, the boat's for you.") He thanks them for the rare and meaningful experience.
+
+-   Video: David Bowie, "Loving The Alien"
+
+-   Max: "Ah, god, the guy's a genius.
+
+-   Max makes a closing comment about next week's show.
+
+## Notes & Commentary
+
+Although this show is usually listed as the third installment and was shown in that order on Cinemax, it was shown second on Channel Four. Thus the closing monologue by Max was edited slightly differently for each release. The UK version omits the reference to "next week's guest, Roger Daltrey" since he had appeared the previous week; the US version left the tag in place since the shows were run in production order.
+
+The Bryan Adams video has Adams performing to a theater full of TVs showing an audience. Chicken, egg, Max...
+
+Although the _Arcadia_ album discussed on this show, "So Red the Rose," would be the band's only release, since it was a side project for LeBon, Rhodes and drummer Roger Taylor, it went multi-platinum worldwide.
+
+## Quotes & Caps
+
+![mhcom_simon_lebon_switches_max_off.jpg](https://placehold.co/600x400?text=mhcom_simon_lebon_switches_max_off.jpg) _Simon LeBon finds the only way to shut Max up._
+
+(_Max's speech in these shows uses extreme stuttering and repetition, which I will not attempt to replicate in the transcriptions here. You can assume that any stutter noted goes on many times longer._)
+
+-   Max: "And coming up soon here on the Max-Max-Max Headroom show, the two and only Simon LeBon and Nick Rhodes. They-They've brought their mascara with them and they're going to be having one petite discussionette with little old _moi_. (aside) Get oot the best _coops_, Martha..."
+
+-   Max: "Boy, you can't trust anyone in this business. You know, on a recent show, I suggested a new game show called 'Stake Your Bedroom Furniture.' Well, I'm damned if there isn't a new game show coming out soon on a major network called: 'Stroke the Piece of Furniture.' Hmm. All the contestant has to do is stroke one of the prizes - like a refrigerator, hi-fi system or videocassette player - in a more loving and sexy way than the hostess, and they get to keep the prize. I'm keeping my mouth shut in the future."
+
+-   Max: "Yes, I'm sure I'm - they'd all love to know Simon LeBon's favorite color, but what about the more important questions in the world, like, who is it that loses that odd shoe you find lying in the gutter? And is it that same idiot who leaves one soaking-wet glove stuck on a spike of the park railings? Ha! Ha! And the funny thing is... it's blue. ...not the glove. Simon's favorite color."
+
+-   Max: "Now I'm going to say a word: po-po-posture. Mmm. Now, there's a nice _Ti-i-ime_ magazine, working-for-you, in quotation marks, it's a legger _now_ kind of word, isn't it? Posture. Sort of makes you sit up and listen. M-m-m. Sit up _properly_ and listen. People sleep in beds with posture springing. Well, most people, except, how shall I put it right off the top of my head... the Japanese. The Japanese don't have beds, they sleep on a _fu-ton_. Futons are very popular and very expensive, and they consist of nothing more than a stuffed sack. Weird. Well. Very good for your posture, and they help you relax and dream. Mostly about sleeping in a proper bed."
+
+-   Max: "And next week, only on the Max Headroo-Max Headroom show, exclusive to your TV screen, nowhere else, not in your bathroom, not in your kitchen-kitchen, not in your garden shed, I'll be teaching you how to interview a superstar politely. And with reverence, humility and respect...
+
+: **UK Version ends:** "...ha-ha-ha... (Simon LeBon reaches over and switches off Max's TV. A female announcer adds, "I suspect that's the only way to shut him up," and pitches Max's two books.)
+
+: ** US Version ends:** "...ha-ha-ha... but first, I'll be talking to Roger Daltrey." (Simon LeBon reaches over and switches off Max's TV.)

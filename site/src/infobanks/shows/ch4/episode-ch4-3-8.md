@@ -1,0 +1,148 @@
+---
+title: "Episode CH4.3.8"
+
+slug: "episode-ch4-3-8"
+---
+
+| Episode CH4.3.8 |                                                                                                                                 |                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Title           | The Max Headroom Show                                                                                                           |                                       |
+| UK Air Date     | 24 Feb 1987                                                                                                                     |                                       |
+| US Air Date     | 7 Nov 1986                                                                                                                      |                                       |
+| Length          | 30 minutes                                                                                                                      |                                       |
+| Guests          | Jack Lemmon                                                                                                                     |                                       |
+| Links           | [![mhcom_audio_icon_100.jpg](https://placehold.co/50x40?text=mhcom_audio_icon_100.jpg)](http://paul.rutgers.edu/~mcgrew/MMMax/) | Audio clips on Charles McGrew's site. |
+| Crew            | Talk Show Crew]]                                                                                                                |                                       |
+| Matt Frewer     | Max Headroom                                                                                                                    |                                       |
+
+The eighth episode of the second Channel Four season of the Max Headroom talk show featured veteran actor Jack Lemmon.
+
+_The MaxRchives contain complete recordings of both the US and UK broadcasts of this episode. Charles McGrew's page contains a number of audio clips that precede the Lemmon interview._
+
+## Videos & Segments
+
+-   To a black screen, Max opens with an almost uncomfortably sincere prayer that he and this episode succeed. (Other than one stutter, it's completely straightforward.)
+
+-   Quick forward-and-reverse clip of the opening titles.
+
+-   Max appears in his white jacket... well, his white jacket appears. No Max head.
+
+-   "...that's right: I think the electric chair is too good for them."
+
+-   Max strikes a serious note about letters received about one of his prior items, and he's going to read one before a giggling crew tells him he has no head.
+
+-   Video: Art of Noise, "Close to the Edit" (a variation of the show theme)
+
+-   Max watches a clip of a cricket game, gasping and shaking his head in awe.
+
+-   Black and white (French?) clip of people Hula-Hooping, late 1950s or so. Insert shots of Max hooping around his neck.
+
+-   Max complains about censors cutting his show. (Shows a clip of Jack Lemmon being bleeped, then an attempt to bleep him.)
+
+-   "It has no... _cojones!_"
+
+-   Clip of Pat Benatar playing violin very slowly. Cut to Max humming the slowed theme and trying to remember the tune.
+
+-   More Art of Noise, "Close to the Edit"
+
+-   Comedy clip of "Ra Ra Zoo": a couple pretending to be in a restaurant as the man stuffs his mouth.
+
+-   Max in the green plaid comes on, tests the mike, and speaks shyly... it's his first video dating recording. He can't even read his own notes very well...
+
+-   Regular opening sequence roles, with the credit slides cut in to increasingly weird sound effects.
+
+-   And this week, we're in... Russia! Land of high technology and blue jeans!
+
+-   Video: World Party, "Private Revolution"
+
+-   UK version only: cut for commercial break, with THE MAX HEADROOM SHOW placeholder slide.
+
+-   UK version only: video continues to same point as US version.
+
+-   And we're back in Russia... where goods aren't that crappy and the Afghan Invasion was about coffee.
+
+-   Back to "Ra Ra Zoo" as the couple pours tea into cups on their heads.
+
+-   Max and his guest Jack Lemmon talk about:
+
+-   How some people are born funny, some have to acquire it and some have funniness thrust upon them.
+
+-   And his guest was born with funny, having to live with the name Lemmon!
+
+-   Video: Pat Benatar, "Sex as a Weapon" intro.
+
+-   Lemmon's dad stuck him with the middle name Uhler, which made him "Jack U. Lemmon"... (Actually, John Uhler Lemmon III...)
+
+-   Lemmon apologizes for taking forty minutes to answer every question.
+
+-   Max asks if Lemmon ever considered standup comedy. ("No." - he succeeded as a film comedian early on.)
+
+-   Faking having a cold in a movie ("The Apartment") - all acting, and largely improvised.
+
+-   Testing the makeup and clothes with Tony Curtis for "Some Like It Hot" by going out into the studio lot ladies' room.
+
+-   But all the clothes were uncomfortable - high heels are killers.
+
+-   Video: Pat Benatar, "Sex as a Weapon" continues.
+
+-   Did Lemmon's successful films have a particular ingredient he brought to them? (No, but they were mostly contemporary parts and thus more easily understood.)
+
+-   Working with Marilyn Monroe.
+
+-   Working with comedy actors - more or less difficult than dramatic actors?
+
+-   Max could tell from his earlier comment: golf is Lemmon's game! ("I adore it... because I'm so terrible at it.")
+
+-   Video: Pat Benatar, "Sex as a Weapon" concludes.
+
+-   US version only: Max has some advice for kids only: about petting.
+
+-   US version only: Short clip of Val Kilmer from "Real Genius" laughing maniacally.
+
+-   Max has something to get off his chest: all the stuff about Russia was lies. He tells a lot of lies. But now he's going to tell only the truth. (Damn, he's doing it again...)
+
+-   UK version only: Max does a riff about the university of life, in front of a clip of a woman slowly stripping (Max keeps getting in the way of the good bits.)
+
+## Notes & Commentary
+
+The country theme for this episode might be "Greece," but the tween-the-lines theme is "censorship." From the opening rant about censorship to the faux reading of a complaint letter to comments here and there to the hilarious (UK only) segment with Max blocking the view of a very nice pair of hooters, the idea of censorship was in the air... whether as a comedy anchor or as a real backlash against censors on one side of the pond, it's hard to say.
+
+The instrumental video from Art of Noise is very "in the family," given Max's connections to the group and their composing of the show's title theme.
+
+## Quotes & Caps
+
+![mhcom_s3E08_max_no_head.jpg](https://placehold.co/600x400?text=mhcom_s3E08_max_no_head.jpg) _Sartorial el-el-elegance stands alone._
+
+![mhcom_s3e08_jack_lemmon.jpg](https://placehold.co/600x400?text=mhcom_s3e08_jack_lemmon.jpg) _Mr. Jack Lemmon._
+
+![mhcom_s3e08_max_censoring_1.jpg](https://placehold.co/600x400?text=mhcom_s3e08_max_censoring_1.jpg) _Max as censor-bot. MOVE, Max!_
+
+![mhcom_s3e08_max_censoring_2.jpg](https://placehold.co/600x400?text=mhcom_s3e08_max_censoring_2.jpg) **\*mildly NSFW** clip\* of Max not completely in the way...)]]
+
+(_Max's speech in this season finally stops using the extreme stuttering and repetition, probably as much for technical, audience and production reasons as because it was getting tiresome. I am still trimming such repetitions to minimum indicators here in the transcriptions._)
+
+-   Max: (Max's white jacket appears, with no Max head) "...that's right, that's right, you're absolutely right: the electric chair is too good for them. ...On a more serious note, I-I-I've received a lot of letters about one item I did, and-and I'm going to read this one to you - it's quite short. ...What? What do you mean it's not on? Of course it is, it's only a letter! _Ehp_... what's not on? Who was responsible for that? I don't care, just get me off quick, it's damned embarrassing. Yeah, well, I'll find out whose mistake it was... someone's head is gonna roll! Oh, that's it, now gig-gig-giggle. What's so damned funny? It's okay for you lot, _I'm_ the one that's up there, it's _my_ face going out... _now_ what are you laughing at? This is the most unprofessional, amateurish crew I have ever worked with and I..." (cut off)
+
+-   Max: "Censors! Cutting my damned show in half! Give 'em a p-p-preview and straight away, out comes this (Jack Lemmon: 'That is a piece of s*BLEEP*t') and then 'oh, no, musn't show this' (clip of Max from the 'petting' riff later, being badly and excessively bleeped) and did this slip its innocent little way through the old fine-mesh net? (clip from Pat Benatar video) Oh-oh-oh no, no no! I tell them widdout theez my show, he have no _cojones_! I said to them:_ 'Cojones!' _
+
+-   Max: "Um... am I on? Testing, testing (blows at the mike) (coughs) Sorry. All right. Uh... Hello. I'm, ah, rather new to video dating but I hope this tape will give you a good pee-pee-peek at me, and what I'm like straight... what I'm like. Straightaway, let me tell you about myself and my favorite hobby. Girls. My favorite hobby, girls, is golf, and I also like to fish skate... to fish, skate, to, uh, windsurf, cook Chinese stamps, um, collecting, of pottery, read, write, wrestle, run, row, and... I like to make lists (giggles) yeah, I'm really fun to have around, 'cuz if I see something amusing I'll make a joke about it as quick as ahh... flash! But don't worry... if you have a date with me, you'll soon want to be in bed most of the time. (coughs) Most of the time we'll go to discos because that's when I'm in my best late at night... Uh, at my best, late at night I get quite excitable... so if you'd like a date with me, send your tape through the agency, and I do hope to meet you... (peers at screen) and... 'don't mention big tits.' "
+
+-   Max: "Ah... a day's a day, a carefree feeling(?)... where-where-where else could I be but light-hearted and jaunty-o little old Russia. A land where some things just suddenly... vanish: aging politicians, the man next door and the occasional nuclear power station. But now I know you think the Russians are a serious people with no sense of humor, hmm? Well, who could blame them - having been invaded centuries ago by the Tartars, who tried to exterminate them all... an example of sheer Tartar sass. (...Russian joke.) Right-right-right, the point is, the Russians concentrate on modern technology, and they're light years ahead at fixing the hem on bell-bottom jeans and fixing racing steering wheels on tractors. And, of course, fixing the accounts on last year's grain harvest. But yes, it is a country of... fashion. Walking through Moscow with the old astrakhan fur hat at a daring tilt, and... getting frostbite in one ear. But the young Russians are different. They love jeans, and they'll offer to buy jeans off any western tourist - which isn't surprising, living in the nuclear fallout of Chernobyl has made all Russians wish they had different jeans! Ha ha ha! (...that's not a Russian joke.)"
+
+-   Max: "To the West, Russia is a mysterious country - its power, its motives, the sex of its women shot-putters. But it isn't true that Russian goods are poor-poor. Here, you can buy the very latest thing in personal hi-fis, which come complete with a solid walnut cabinet and six dissidents to carry it around. Plus, a free album of twenty golden funeral marches. And, everyone here is provided with a home... although, of course, in the case of the dissidents, it's a mental home. And finally, the Afghan invasion: an act of aggression? Hah! No! The invasion was caused by a rumor spreading through Moscow that one grocer in Afghanistan had just received a delivery of instant coffee!"
+
+-   Max: "Did the name 'Lemmon' really give you a problem? I mean, it could have been 'Jack' the kids at school were laughing at..."
+
+: Jack Lemmon: "I don't think it's any of your business." [short break for video] "Yes, it did give me a problem, and I really didn't want to speak to my old man, my father, for about ten years. For some oddball reason, it's bad enough with 'Lemmon' as a last name - which actually was pronounced 'leh-mahn' because it's two M's in it..."
+
+: Max: "No artistic credibility, nyeh? Leh-MON! Ha!"
+
+: Jack Lemmon: "He said stick with 'lemon' because at least they'll remember it. But... the middle name that he stuck me with is what really teed me off: Uhler, U-H-L-E-R. So obviously the middle initial is U. For ten years, all I could remember was* 'Jack You Lemon, Jack You Lemon' *in school, and I never was willing to forgive my father, who was stuck with the same name."
+
+: Max: "Okay, well, thanks for helping me out on that one... a little Lemmon-aid. Ha."
+
+-   Max: "Hi. Can I take a few moments to give you some advice? And I think adults can switch off, because this is strictly for kids. ...Have they gone-have they gone? ...Right. Okay, I want to talk to you about... p-p-petting. No, no no no, don't giggle, because I'm worried about whether you think carefully enough before you... do it. It starts at school, right? The occasional innocent stroke and tickle at the end of class, and then you get carried away and you want to go... further. First it's on the desks and then home on the sofa and then it's out in the open in the garden; you don't care and you can't control it and before you know where you are, there's a family on the way. So-so-so, take my advice about petting: just _think_ before you bring the school rabbit home."
+
+-   Max: "Um, I have a confession to make. Really, uh... I'd like to get this off my che-chest. All that stuff about Russia earlier? I made it all up. All that stuff about six dissidents to carry your hi-fi? It's all lies. In fact, I-I-I tell a lot of lies - all jokes, quips and witticisms are lies, and I get enormous mileage out of them. Well, I've had enough. From now on, I'm telling the truth. And the truth is, I feel damn embarrassed. There, I've said it, and... I feel better already. Who needs lies, anyway? So, thank you for listening, for being so understanding... in fact, I'd like to take this opportunity to thank you for being such a beau-beautiful, wonderful-wonderful audience... the best! ...damn, I'm doing it again."
+
+-   Max: (Max bobs around in front of a soft-porn clip of a woman undressing to a synth-rock score) "I'm one of life's thinkers, and that's because I'm a student-I'm a student of the University of Life. And, after all's said and done, life's a funny old business, isn't it? All right, admit it! Every which way you turn, there is a problem round the bend. And, well, there's good and bad-good and bad everywhere you go, and we all know policemen have a very difficult job. But personally, I think the young people of today are marvelous, and if you just take the trouble to look around, you bide your time, you'll find that spring is just around the corner. And even though we do have our ups and downs, what-what-what's this life worth if you can't talk a load of crap once in a while and get... in everybody's... way?"

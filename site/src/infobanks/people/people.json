@@ -1,0 +1,6 @@
+{
+    "tags": [
+        "people"
+    ],
+    "permalink": "/infobanks/people/{{ page.fileSlug }}/"
+}

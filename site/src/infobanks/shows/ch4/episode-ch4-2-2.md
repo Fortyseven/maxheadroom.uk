@@ -1,0 +1,70 @@
+---
+title: "Episode CH4.2.2"
+
+slug: "episode-ch4-2-2"
+---
+
+| Key         | Value                 |
+| ----------- | --------------------- |
+|             | Episode CH4.2.2       |
+| Title       | The Max Headroom Show |
+| US Air Date | 20 Nov 1985           |
+| UK Air Date | 29 Jul 1986           |
+| Length      | 25 minutes            |
+| Guests      | _No guests_           |
+| Crew        | Talk Show Crew]]      |
+| Matt Frewer | Max Headroom          |
+
+The second Max Headroom talk show featured only videos and some great Max riffs.
+
+_The MaxRchives contain a recording of the Cinemax broadcast of this episode._
+
+## Videos & Segments
+
+-   Video: Supertramp, "Cannonball"
+
+-   Video: Waysted, "Love Loaded"
+
+-   Video: Heat N Serve, "Rats on a Budget"
+
+-   Video: Bauhaus, "Ziggy Stardust"
+
+-   Video: Hit List, "Into the Fire"
+
+-   Video: China Crisis, "King in a Catholic Style"
+
+-   Video: Udo Lindenberg, "Germans"
+
+## Notes & Commentary
+
+This episode is believed to have run third in the Channel Four series, despite being production number 2 and appearing on Cinemax in that order.
+
+Max's opening quote about "making tomorrow seem like yesterday" was first spoken by Blank Reg in the [telefilm](episode-ch4-0-1-the-origin-telefilm.md). His use of Edison Carter's catch line (and sometime show name) "What I want to know..." is also heard.
+
+## Quotes & Caps
+
+No unique visuals in this episode.
+
+(_Max's speech in these shows uses extreme stuttering and repetition, which I will not attempt to replicate in the transcriptions here. You can assume that any stutter noted goes on many times longer._)
+
+-   Max: "Max-Max Head-Headroom, twenty-four hours a day after day after day, making tomorrow seem like yesterday."
+
+-   Max: "You see, we've just had a telegram from the police-police in Texas, asking if we've seen a cow-cowboy answering this description: apparently he wears a brown paper hat, brown paper shirt, brown paper trousers and brown paper boots. They say he's wanted for rustling."
+
+-   Max: "I got a joke. Okay, there was an Englishman, an Irishman-an Irishman and a Scotsman. And a Frenchman, and... an American. And a German. And I think an Australian as well. Okay. So there was this little Englishman Irishman Scotsman and American and German, and possibly an Australian, and I think they were in a bar. Heh. Ha... that's stupid, I've forgotten it."
+
+-   Max: "Most people only eat revolting things to break a record. This lot did it to... make a record. 'Rats on a Budget'... Heat N Serve!"
+
+-   Max: "Everyone knows that frozen peas are as fresh as the moment the pod went _pop_. But what about frozen meat... is that as fresh as the moment the cow went _nnyeh nnyeh aaahh ayayayay-uhh_?"
+
+-   Max: "What I want to know is, why aren't more people inventing useful things? Like Mr. Bob-Bob-Bobby Ashimura, who wins our Max Headroom product of the month award for coming out with a little attachment you plug into your TV and it warns you that the commercial break is coming, by automatically switching off your set for five seconds. And here to demonstrate it for us is Mr. Ashimura himself. (_Okay, Bob, take it away..._) (five seconds of static)
+
+-   Max: "What would you do to help the world if you could spend 30,000 pounds a week for the next thhhh-ousand years? Well, that's how much the government are spending on Trident missiles. Don't facts like that just wipe you out? (sound of bowling roll and strike, leading to dancing taps) I know how to tap dance..."
+
+-   Max: "You know, I was walking around the city the other day, and it was so quiet you could have heard a window being smashed. It is strange, really. I suppose a lot of people are like windows. So many are... see-through. So many get smashed. And so many wander around with a glazed look over them. Are you like a window? Is your life a pane? Who was it said that..."
+
+-   Max: "You know, people can be really nasty. Only the other day I heard someone say, 'he's nothing but a robot, covered in makeup - talks a lot of nonsense.' What a way to talk about the President of America!"
+
+-   Max: "Don't forget, later on, I'll be talking to... Nick Kershaw on the telephone. So we'll all be looking forward to that. Now... if you gave an infinite number of monkeys a typewriter each for an infinite amount of time-time-time..."
+
+-   Max: "(sobbing)...and I'd like to take this opportunity of thanking the one and only... (grins) Max Headroom, for giving you all such a wonderful time. So, what about next week? What do the papers say about my show? Wonderful! Stylish! Extraordinary! Sen-sational! Hey! Hey! Could be descriptions of me-me-me, couldn't they? But no, 'cuz next week it's vid-vid-video-videos! Promos! Bits of film you've never seen before! You just wait, I'll have you sitting on the edge of your sepia leather and pine _chaise longue_. And if you haven't got any furniture, I'll have you sitting on the edge of your carpet! S-s-s-so: don't miss me next week! And once again... thank you! Thank you! Thank you... Max! (Isn't he great?)"

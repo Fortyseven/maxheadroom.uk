@@ -40,4 +40,11 @@
         <td>{{ params.length }}</td>
     </tr>
     {% endif %}
+    {% if params.frames_img %}
+    <tr class="frames">
+        <td colspan="2">
+        <a href="{{ params.frames_img }}"><img src="{{ params.frames_img }}" alt="Montage of episode frames" class="frames"></a>
+        </td>
+    </tr>
+    {% endif %}
 </table>
