@@ -58,6 +58,24 @@ table.episode-details .frames td img {
   }
 }
 
+#Home .infobanks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+#Home .infobanks h2 {
+  text-align: center;
+  width: 100%;
+  margin: 0;
+}
+#Home .infobanks h3 {
+  text-align: left;
+  margin: 0;
+  color: #cc6;
+}
+#Home .note {
+  font-size: 0.8em;
+}
+
 body {
   max-width: 1440px;
   margin: auto;
@@ -136,13 +154,11 @@ body p strong {
   color: #cc6;
   font-weight: bold;
 }
-body ul {
-  list-style: square;
-}
 body table {
   border-collapse: collapse;
   background-color: rgba(0, 0, 0, 0.4);
   font-size: 0.85em;
+  margin-inline: auto;
 }
 body table tr th,
 body table tr td {
@@ -161,6 +177,19 @@ body table tr td.label {
   body table {
     /* use grids */
   }
+}
+
+ul {
+  list-style: "> ";
+}
+ul li {
+  margin-block: 0.75em;
+}
+ul ul {
+  list-style: "- ";
+}
+ul ul li {
+  margin-block: 0.5em;
 }
 
 /*# sourceMappingURL=style.css.map */
