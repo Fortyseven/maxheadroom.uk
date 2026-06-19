@@ -8,10 +8,10 @@ layout: "layouts/page.njk"
 
 ### Max Headroom: 20 Minutes Into the Future
 
-The 57-minute origin telefilm, shown on the UK's Channel Four on 4 April 1985 (4/4, get it?)
-| Episode | Title | UK Air Date | US Air Date | Notes |
-| ------------------------------------------------- | ------------ | ----------- | ----------- | ----- |
-| [CH4.0.1](max-headroom-20-minutes-into-the-future) | Max Headroom | 4 Apr 1985 | 14 Apr 1985 | |
+The 57-minute origin telefilm, shown on the UK's [Channel Four](https://en.wikipedia.org/wiki/Channel_4) on 4 April 1985 (4/4, get it?)
+| Episode | Title | UK Air Date | US Air Date |
+| ------------------------------------------------- | ------------ | ----------- | ----------- |
+| [CH4.0.1](max-headroom-20-minutes-into-the-future) | Max Headroom | 4 Apr 1985 | 14 Apr 1985 |
 
 ### The Max Headroom Show
 
@@ -49,6 +49,17 @@ The second season of the show, identifiable by its "bar room" set, ran first on 
 | [CH4.2.6](ch4-2-6) | Boy George                  | 18 Dec 1985 | 19 Aug 1986 |                                                                                                       |
 
 ## 1986
+### Max Headroom's Giant Christmas Turkey
+
+The full-length Christmas special, produced as an additional episode of the third season. It premiered in the US as "The Max Headroom Christmas Special" but retained the UK title within the show.
+
+UK viewers saw this special as the lead-in to the third season episodes.
+
+| Episode                          | Guests                                                | US Air Date | UK Air Date |
+| -------------------------------- | ----------------------------------------------------- | ----------- | ----------- |
+| [CH4.3.11](ch4/episode-ch4-3-11) | Dave Edmunds, Bob Geldof, Robin Williams, Tina Turner | 18 Dec 1986 | 26 Dec 1986 |
+
+## 1987
 
 ### The Max Headroom Show (Series 3)
 
