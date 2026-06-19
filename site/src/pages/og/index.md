@@ -3,7 +3,7 @@ title: "Original MaxHeadroom.com Links"
 permalink: "/og/index.html"
 ---
 
-This page contains links to the original MaxHeadroom.com site content, as archived by the Wayback Machine.
+This page contains links to the original [MaxHeadroom.com](https://web.archive.org/web/20230607043032/http://www.maxheadroom.com/index.php?title=Welcome_to_the_Max_Headroom_Chronicles!) site content, as archived by the Wayback Machine.
 
 These links are provided for reference and historical purposes out of respect for the creator of the original Max Headroom Chronicles site, "Blank James" Gifford, for whom this site is dedicated and builds upon. The original site was a labor of love and a treasure trove of information about Max Headroom, and we want to honor that legacy by preserving access to the original content.
 

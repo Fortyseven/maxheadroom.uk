@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/page.njk",
+    "tags": "pages",
+    "permalink": "/og/essays/subliminal-credits/{{ page.fileSlug }}/"
+}
