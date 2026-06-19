@@ -11,7 +11,7 @@ slug: "episode-cmx-1-4"
 | US Air Date     | 3 Sep 1987                             |                |
 | Length          | 30 minutes                             |                |
 | Guests          | Dr. Ruth Westheimer                    | Bobby McFerrin |
-| Crew            | Talk Show Crew]]                       |                |
+| Crew            | Talk Show Crew                       |                |
 | Matt Frewer     | Max Headroom                           |                |
 
 The fourth episode of the Cinemax talk show featured sex advisor Dr. Ruth and singer Bobby McFerrin.

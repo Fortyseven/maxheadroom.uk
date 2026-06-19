@@ -12,7 +12,7 @@ slug: "episode-cmx-1-6"
 | Length          | 30 minutes                             |                               |
 | Creative        |                                        |                               |
 | Guests          | William Shatner                        | Grace Jones Gilbert Gottfried |
-| Crew            | Talk Show Crew]]                       |                               |
+| Crew            | Talk Show Crew                       |                               |
 | Matt Frewer     | Max Headroom                           |                               |
 
 The final episode of the Cinemax talk show featured model actor William Shatner, singer/actor Grace Jones and comedian Gilbert Gottfried.

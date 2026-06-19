@@ -11,7 +11,7 @@ slug: "episode-cmx-1-2"
 | US Air Date     | 6 Aug 1987                             |             |
 | Length          | 30 minutes                             |             |
 | Guests          | Mary Tyler Moore                       | Robin Leach |
-| Crew            | Talk Show Crew]]                       |             |
+| Crew            | Talk Show Crew                       |             |
 | Matt Frewer     | Max Headroom                           |             |
 
 The second episode of the Cinemax talk show featured actress Mary Tyler Moore and celebrity interviewer Robin Leach.

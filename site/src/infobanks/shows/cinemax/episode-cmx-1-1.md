@@ -11,7 +11,7 @@ slug: "episode-cmx-1-1"
 | US Air Date     | 23 Jul 1987                            |               |
 | Length          | 30 minutes                             |               |
 | Guests          | Jerry Hall                             | Penn & Teller |
-| Crew            | Talk Show Crew]]                       |               |
+| Crew            | Talk Show Crew                       |               |
 | Matt Frewer     | Max Headroom                           |               |
 
 The premiere episode of the Cinemax talk show featured model Jerry Hall and magic duo Penn & Teller.

@@ -11,7 +11,7 @@ slug: "episode-cmx-1-5"
 | US Air Date     | 17 Sep 1987                            |                           |
 | Length          | 30 minutes                             |                           |
 | Guests          | Don King                               | Emo Philips Madeline Kahn |
-| Crew            | Talk Show Crew]]                       |                           |
+| Crew            | Talk Show Crew                       |                           |
 | Matt Frewer     | Max Headroom                           |                           |
 
 The fifth episode of the Cinemax talk show featured sports promoter Don King, actor Madeline Kahn and comedian Emo Philips.
