@@ -11,10 +11,9 @@ layout: "layouts/page.njk"
 ### Max Headroom: 20 Minutes Into the Future
 
 The 57-minute origin telefilm, shown on the UK's Channel Four on 4 April 1985 (4/4, get it?)
-
-| Episode                                           | Title        | UK Air Date | US Air Date | Notes |
+| Episode | Title | UK Air Date | US Air Date | Notes |
 | ------------------------------------------------- | ------------ | ----------- | ----------- | ----- |
-| [CH4.0.1](/infobanks/shows/max-headroom-telefilm) | Max Headroom | 4 Apr 1985  | 14 Apr 1985 |       |
+| [CH4.0.1](/infobanks/shows/max-headroom-telefilm) | Max Headroom | 4 Apr 1985 | 14 Apr 1985 | |
 
 ### The Max Headroom Show
 
@@ -109,8 +108,8 @@ The talk/video/interview show as continued by Cinemax in the US. There was one s
 
 The most famous and widely known appearance of Max, in an ABC series that ran for 14 episodes, most of which were eventually shown at the time. It's not clear when, if ever, these shows appeared in the UK.
 
-| Episode | Title                | US Air Date | Prd Num | Notes                                                                                                                                         |
-| ------- | -------------------- | ----------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Episode            | Title                | US Air Date | Prd Num | Notes                                                                                                                                         |
+| ------------------ | -------------------- | ----------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ABC.1.1](abc/1.1) | "Blipverts"          | 31 Mar 1987 | --      | An almost shot-for-shot remake of the original telefilm, but with some surprising differences to accommodate the story line to a new setting. |
 | [ABC.1.2](abc/1.2) | "Rakers"             | 7 Apr 1987  | 1.3     | (Rushed to air and easily the weakest of the ABC episodes.)                                                                                   |
 | [ABC.1.3](abc/1.3) | "Body Banks"         | 14 Apr 1987 | 1.2     |                                                                                                                                               |

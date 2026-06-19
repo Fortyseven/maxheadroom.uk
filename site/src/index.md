@@ -8,17 +8,23 @@ layout: "layouts/page.njk"
 
 ## Primary Infobanks
 
-### Channel 4
+### [Shows](infobanks/shows/)
+
+- [Channel 4](infobanks/shows/ch4/)
+- [Cinemax](infobanks/shows/cinemax/)
+- [ABC](infobanks/shows/abc/)
+- [Adverts](infobanks/adverts/)
+
+<!-- #### Channel 4
 - [Episodes](infobanks/shows/ch4/)
-### Cinemax
+#### Cinemax
 - [Episodes](infobanks/shows/cinemax/)
 - [Guests](infobanks/guests/)
-### ABC
+#### ABC
 - [Episodes](infobanks/shows/abc/)
 - [Characters and Actors](infobanks/characters-actors/)
-
-### Other
-- [Adverts](infobanks/adverts/)
+#### Other
+- [Adverts](infobanks/adverts/) -->
 
 
 </div>
