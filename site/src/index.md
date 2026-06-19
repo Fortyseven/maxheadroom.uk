@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MaxHeadroom.uk
 layout: "layouts/page.njk"
 ---
 <div id="Home">
@@ -42,7 +42,7 @@ layout: "layouts/page.njk"
 
 <div class="note">
 
-Important Note: This site is built upon the amazing work of "Blank James" Gifford, the original author of _The Max Headroom Chronicles_ (formerly at maxheadroom.com). A large bulk of the original text and research was done by him. This site builds upon that foundation, preserving his original work where possible, while adding new material and updates. We are grateful for his contributions to the _Max Headroom_ fandom, and this site continues in his memory.
+Important Note: This site is built upon the amazing work of "Blank James" Gifford, the original author of _The Max Headroom Chronicles_ (formerly at maxheadroom.com). A large bulk of the original text and research was done by him. This site builds upon that foundation, preserving his original work where possible, while adding new material and updates. We are grateful for his contributions to the _Max Headroom_ fandom, and this site continues in his memory. While the original site's domain has expired, content from it can still be viewed on [Archive.org](/og).
 
 </div>
 </div>

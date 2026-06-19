@@ -1,11 +1,10 @@
 ---
-title: "Episode CH4.0.1: The Origin Telefilm"
-slug: "episode-ch4-0-1-the-origin-telefilm"
+title: "Max Headroom: 20 Minutes into the Future"
 ---
 
 | Episode CH4.0.1                                                 |                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Title                                                           | Max Headroom                                                                 | Max Headroom: 20 Minutes into the Future Max Headroom: The Original Story                                                                                                                                                                                                                                                                                                                                             |
+| Title                                                           | Max Headroom                                                                 | **Max Headroom:** 20 Minutes into the Future **Max Headroom:** The Original Story                                                                                                                                                                                                                                                                                                                                     |
 | UK Air Date                                                     | 4 Apr 1985                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | US Air Date                                                     | 14 Apr 1985                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Length                                                          | 57 minutes                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -44,7 +43,7 @@ The history of this production alone could fill many pages.
 
 ## Synopsis
 
-(Note: This synopsis is written to be completely "standalone" and is without reference to the very similar US pilot synopsis. For a comparison of the two shows, see the [Essays](max-essays.md) page.)
+_(Note: This synopsis is written to be completely "standalone" and is without reference to the very similar US pilot synopsis. For a comparison of the two shows, see the [Essays](max-essays.md) page.)_
 
 In a bleak, dystopian future where a downtrodden underclass is ruled by warring television networks and their advertisers, one tough investigative reporter, Edison Carter, strives to make a difference. He is one of the best-known on-air personalities, and "satellites globally" for what has long been the top-rated among thousands of television channels, Network 23.
 
@@ -78,7 +77,7 @@ This telefilm was created to explain the origin and backstory of Max, who was co
 
 When Lorimar picked up the rights to continue the story as a series, they completely recast the show, keeping only Matt Frewer and Amanda Pays, with William Morgan Sheppard brought on in later episodes. Of the creative team, only producer Peter Wagg and writer Steve Roberts were brought over to the new show (a few of the special effects people were brought in as well).
 
-The title of this production varies with the setting. The only title within the film is the opening "Max Headroom," but most promotional materials and the official "picture book of the film" extend it to "Max Headroom: 20 Minutes into the Future."
+The title of this production varies with the setting. The only title within the film is the opening "Max Headroom," but most promotional materials and the official "picture book of the film" extend it to "**Max Headroom:** 20 Minutes into the Future."
 
 It takes careful viewing to determine the city in which the story is set. A prominent computer generated map zooms in on the US, with a blinking dot near New Orleans. Close examination shows that this represents a satellite, and the footprint of the satellite is shown covering the southeastern US. The point of this is unclear, as the subsequent zoom onto Carter's position clearly shows it to be in or near London (a single-frame freeze is needed to resolve the fast moving image). Is the earlier image intended to blur the location in viewer's minds?
 
@@ -86,17 +85,17 @@ The exploding viewer is captured on a "Rebus tape," which becomes a pivotal obje
 
 Among the news summaries that flash past on Theora's console are:
 
--   Whites should be permitted the same access to South African public areas as the majority population.
+- `Whites should be permitted the same access to South African public areas as the majority population.`
 
--   Top secret prototype missile stolen from AKG by terrorists.
+- `Top secret prototype missile stolen from AKG by terrorists.`
 
--   Nuclear waste disposal space shuttle DMP.5 in difficulty over failed computer link; controller was watching the Polly Show at the time.
+- `Nuclear waste disposal space shuttle DMP.5 in difficulty over failed computer link; controller was watching the Polly Show at the time.`
 
--   Bolivian freedom fighters killed a 20-person medic team trying to reach starving peasants.
+- `Bolivian freedom fighters killed a 20-person medic team trying to reach starving peasants.`
 
--   Colonial USSR government in New Delhi ordered military suppression of food riots.
+- `Colonial USSR government in New Delhi ordered military suppression of food riots.`
 
--   Tokyo TV assembly workers threaten strike.
+- `Tokyo TV assembly workers threaten strike.`
 
 The Polly Show, also mentioned later as a possible Max-ratings killer, appears to be the most popular program on television.
 
@@ -110,7 +109,7 @@ Theora says, "I know all about little boys." Carter turns it into an innuendo, b
 
 Breugal and Mahler are a riff on the 19th century Scottish body snatching team of Burke and Hare, who started off stealing newly buried bodies for physicians to use in anatomy lessons, and graduated to delivering still-warm corpses. (Mahler thinks this "has great potential.") Burke was hanged after Hare turned King's evidence. Hare died some 25 years later, a pauper.
 
-Carter's personal ident code is 74928BDG6629.
+Carter's personal ident code is `74928BDG6629`.
 
 The nurse receptionist at Nightingale's Body Bank is not identified by name. In the US remake, the joke is completed by calling the character (played by a nearly identical actress) "Florence." (Florence Nightingale? Famous nurse? Get it?)
 
@@ -127,39 +126,25 @@ While transporting Grosman and Bryce Lynch to "find Big Time TV," Mahler sings a
 
 Among the networks shown on the ratings graphic of stations at the top:
 
--   TKO TV
-
--   Channel 28
-
--   Primetime
-
--   Pornovision
-
--   Channel 42
-
--   Global
-
--   BBC 126
-
--   and, of course, Network 23
+- TKO TV
+- Channel 28
+- Primetime
+- Pornovision
+- Channel 42
+- Global
+- BBC 126
+- and, of course, Network 23
 
 And among the networks shown on the ratings graphic of stations with ratings "in the thousands":
 
--   Planetwide
-
--   Channel 1111
-
--   Flicks
-
--   Bigtime TV
-
--   Fantasm
-
--   Horrorviz
-
--   RUBB18H TV
-
--   BBC DIY TV
+- Planetwide
+- Channel 1111
+- Flicks
+- Bigtime TV
+- Fantasm
+- Horrorviz
+- RUBB18H TV
+- BBC DIY TV
 
 William Morgan Sheppard, often credited as W. Morgan Sheppard or Morgan Sheppard, is miscredited as "Morgan Shepherd" in the final credits.
 
@@ -167,7 +152,7 @@ The two BBC channel references appear to be British viewer in-jokes. Channel 42,
 
 Edison Carter never encounters his AI alter-ego Max Headroom.
 
-## Quotes &amp; Caps
+## Screencaps
 
 ![Mh-ch4-0-1-network23-tower.jpg](https://placehold.co/600x400?text=Mh-ch4-0-1-network23-tower.jpg)
 
@@ -183,118 +168,120 @@ Edison Carter never encounters his AI alter-ego Max Headroom.
 
 ![Mh-ch4-0-1-grossman-and-bryce.jpg](https://placehold.co/600x400?text=Mh-ch4-0-1-grossman-and-bryce.jpg)
 
--   Theora Jones: "Hi. Oh, how's the head?"
+## Quotes
 
-: Edison Carter: "It's fine. How's yours?"
+> **Theora Jones:** "Hi. Oh, how's the head?"
+>
+> **Edison Carter:** "It's fine. How's yours?"
 
--   Max: "Hih-hih-hih Max Headroom."
+> **Max:** "Hih-hih-hih Max Headroom."
 
--   Bryce Lynch: "This is the future: people translated as data."
+> **Bryce Lynch:** "This is the future: people translated as data."
 
--   Coffee Machine: "Stinks. Odorous. Pungent. Offensive. Offense. The guilty party will be reported to network president Mr. Grosman. This is an automatic complaint system."
+> **Coffee Machine:** "Stinks. Odorous. Pungent. Offensive. Offense. The guilty party will be reported to network president Mr. Grosman. This is an automatic complaint system."
 
--   Grosman: "I do so hate wasting an employee."
+> **Grosman:** "I do so hate wasting an employee."
 
--   Breugal: "Hey hey hey, silly boy... who's a silly boy, eh? Hands are rare and expensive items - worth more than cameras. Luddite."
+> **Breugal:** "Hey hey hey, silly boy... who's a silly boy, eh? Hands are rare and expensive items - worth more than cameras. Luddite."
 
--   Blank Reg: "Right. Great. Wonderful. You're tuned into the wired society. This is Big Time Television, day after day, making tomorrow seem like yesterday. You know we said, ah, there's no future? Well, this is it. This is Blank Reg, talkin' to the blank generation, hot and live from Big Time Television. And next up... more of the same. Have a nice day."
+> **Blank Reg:** "Right. Great. Wonderful. You're tuned into the wired society. This is Big Time Television, day after day, making tomorrow seem like yesterday. You know we said, ah, there's no future? Well, this is it. This is Blank Reg, talkin' to the blank generation, hot and live from Big Time Television. And next up... more of the same. Have a nice day."
 
--   Dominique: "What is... a 'crosshatch generator'?"
+> **Dominique:** "What is... a 'crosshatch generator'?"
+>
+> **Blank Reg:** "Dunno."
+>
+> **Dominique:** "We've been billed for one."
 
-: Blank Reg: "Dunno."
+> **Blank Reg:** "Oh, yeah. Ah, they'll stick anything down. I think it was some bent, uh, cabling gear that Pancho slipped me."
 
-: Dominique: "We've been billed for one."
+> **Dominique:** _(coughs)_
+>
+> **Blank Reg:** "You smoke too much, Dom."
+>
+> **Dominique:** "Reg, if you didn't nail your jeans to the floor every night, they'd escape... so don't talk to me about personal habits."
 
-: Blank Reg: "Oh, yeah. Ah, they'll stick anything down. I think it was some bent, uh, cabling gear that Pancho slipped me."
+> **Dominique:** "We have just got to find something better than those bloody old videotapes."
+>
+> **Blank Reg:** "Dom!"
+>
+> **Dominique:** "Just because they're free doesn't mean to say they're good, you know."
+>
+> **Blank Reg:** "I like 'em!"
 
--   Dominique: _(coughs)_
+> **Dominique:** "Max is making this station."
+>
+> **Blank Reg:** "And what if the real owner wants him back?"
+>
+> **Dominique:** "Over my dead body!"
+>
+> **Blank Reg:** "It might be. I'm gonna put the wheels of the bus back on, just in case."
 
-: Blank Reg: "You smoke too much, Dom."
+> **Phone Ad Spokeswoman:** "Digital watch tunes - you can enjoy them all on this cassette. Remember _(tune)_ and _(tune)_ and the classic _(tune)_? Plus many, many more on 'Digital Watch Tunes, Volume 2.' Available now from Zik-Zak."
 
-: Dominique: "Reg, if you didn't nail your jeans to the floor every night, they'd escape... so don't talk to me about personal habits."
+> **Phone Ad Spokesman:** "Hello, there. Call this number and find out what an incredibly nice guy God is. He won't keep you waiting on the line, he won't hang up on you... _-click-_"
 
--   Dominique: "We have just got to find something better than those bloody old videotapes."
+> **Max:** "Enter data."
 
-: Blank Reg: "Dom!"
+> **Max:** "B-B-B-Big T-T-Time. Hi. Both of you. Welcome t-t-to Big Time. You want to check these ratings? I seem to have an audience of two."
 
-: Dominique: "Just because they're free doesn't mean to say they're good, you know."
+> **Max:** "Hello, and welcome to Big Time Television. Live and direct, it's Big Time Television - the station where two's company and three's an audience."
 
-: Blank Reg: "I like 'em!"
+> **Grosman:** "Chaos is not helpful!"
 
--   Dominique: "Max is making this station."
+> **Grosman:** "We buried that kind of crap decades ago. I am not prepared to risk my network over it."
 
-: Blank Reg: "And what if the real owner wants him back?"
+> **Grosman:** "Ben, I'm talking ratings!"
+>
+> **Cheviot:** "And I'm talking people!"
+>
+> **Grosman:** "Same thing!"
 
-: Dominique: "Over my dead body!"
+> **Theora:** "I nearly lost you."
+>
+> **Carter:** "Well, you're going to get a chance to lose me again tonight, 'cause I'm going to go back to Bryce's studio."
 
-: Blank Reg: "It might be. I'm gonna put the wheels of the bus back on, just in case."
+> **Max:** "Big Time Television: ratings, 1000... ratings, 1000."
 
--   Phone Ad Spokeswoman: "Digital watch tunes - you can enjoy them all on this cassette. Remember _(tune)_ and _(tune)_ and the classic _(tune)_? Plus many, many more on 'Digital Watch Tunes, Volume 2.' Available now from Zik-Zak."
+> **Dominique:** "Reg, this is incredible... over a thousand viewers. You might get paid this month."
 
--   Phone Ad Spokesman: "Hello, there. Call this number and find out what an incredibly nice guy God is. He won't keep you waiting on the line, he won't hang up on you... _-click-_"
+> **Dominique:** "What the hell is that?"
+>
+> **Blank Reg:** "His ratings?"
+>
+> **Dominique:\***"You're kidding!"
+>
+> **Blank Reg:** "Well, why not? Max Headroom, 2.3 million, well, that's what you want, idn'it?"
 
--   Max Headroom: "Enter data."
+> **Dominique:** "...Max Headroom... he could have his own show!"
 
--   Max Headroom: "B-B-B-Big T-T-Time. Hi. Both of you. Welcome t-t-to Big Time. You want to check these ratings? I seem to have an audience of two."
+> **Max:** "This is Max Headroom on Big Time Television, and what I want to know is: don't Eskimos ever get bored with their weather forecast?"
 
--   Max Headroom: "Hello, and welcome to Big Time Television. Live and direct, it's Big Time Television - the station where two's company and three's an audience."
+> **Max:** "If you're all watching me, who's watching Network 23 - a network with a great future behind it? As they say when you're buying suppositories, with friends like those, who needs enemas?"
 
--   Grosman: "Chaos is not helpful!"
+> **Breugal:** "Probably just a grilled microchip."
 
--   Grosman: "We buried that kind of crap decades ago. I am not prepared to risk my network over it."
+> **Bryce:** "Soon I'll be able to reconstruct anybody on the screen - so accurately that even your own Mum would know it was you."
 
--   Grosman: "Ben, I'm talking ratings!"
+> **Breugal:** "You might care to call it the Phoenix, Mr. Bryce. My word, you could have all your politicians in little boxes. It's very handy."
 
-: Cheviot: "And I'm talking people!"
+> **Cheviot:** "It's only two percent."
+>
+> **Grosman:** "Two percent is 26 million consumers, Ben! Once they start switching channels, it's war! You know that!"
+>
+> **Cheviot:** "It happens all the time. We're used to it."
 
-: Grosman: "Same thing!"
+> **Max:** "Now, I understand why people prefer watching television to the radio. They've worked out how boring it is watching the radio."
 
--   Theora: "I nearly lost you."
+> **Murray:** "What do I do, Ben?"
+>
+> **Cheviot:** "Do what you have to, Murray."
 
-: Carter: "Well, you're going to get a chance to lose me again tonight, 'cause I'm going to go back to Bryce's studio."
+> **Network Announcer:** "We interrupt this programme for a special news flash. For the details, over now live and direct to Edison Carter."
 
--   Max: "Big Time Television: ratings, 1000... ratings, 1000."
+> **Carter:** (on screen) "Tell me, sir, when did you first learn that blipverts caused people to spontaneously explode?"
 
--   Dominique: "Reg, this is incredible... over a thousand viewers. You might get paid this month."
+> **Blank Reg:** "What a load of _-click-_ bollocks!"
 
--   Dominique: "What the hell is that?"
+> **Max:** "I had to spend a little time recently with a parrot. (It's true.) I won't tell you why, but what amazes me is why anybody would want to spend any time at all sitting at home teaching a bird to talk - I mean, what's wrong with the rest of the family, huh? And of course they teach it something really interesting like, 'Who's a pretty boy'"
 
-: Blank Reg: "His ratings?"
-
-: Dominique: "You're kidding!"
-
-: Blank Reg: "Well, why not? Max Headroom, 2.3 million, well, that's what you want, idn'it?"
-
--   Dominique: "...Max Headroom... he could have his own show!"
-
--   Max: "This is Max Headroom on Big Time Television, and what I want to know is: don't Eskimos ever get bored with their weather forecast?"
-
--   Max: "If you're all watching me, who's watching Network 23 - a network with a great future behind it? As they say when you're buying suppositories, with friends like those, who needs enemas?"
-
--   Breugal: "Probably just a grilled microchip."
-
--   Bryce: "Soon I'll be able to reconstruct anybody on the screen - so accurately that even your own Mum would know it was you."
-
-: Breugal: "You might care to call it the Phoenix, Mr. Bryce. My word, you could have all your politicians in little boxes. It's very handy."
-
--   Cheviot: "It's only two percent."
-
-: Grosman: "Two percent is 26 million consumers, Ben! Once they start switching channels, it's war! You know that!"
-
-: Cheviot: "It happens all the time. We're used to it."
-
--   Max: "Now, I understand why people prefer watching television to the radio. They've worked out how boring it is watching the radio."
-
--   Murray: "What do I do, Ben?"
-
-: Cheviot: "Do what you have to, Murray."
-
--   Network Announcer: "We interrupt this programme for a special news flash. For the details, over now live and direct to Edison Carter."
-
--   Carter: (on screen) "Tell me, sir, when did you first learn that blipverts caused people to spontaneously explode?"
-
-: Blank Reg: "What a load of _-click-_ bollocks!"
-
--   Max: "I had to spend a little time recently with a parrot. (It's true.) I won't tell you why, but what amazes me is why anybody would want to spend any time at all sitting at home teaching a bird to talk - I mean, what's wrong with the rest of the family, huh? And of course they teach it something really interesting like, 'Who's a pretty boy'"
-
--   Max: "Parrots are only one rung above politicians, though. You'll always know when they're lying: their lips move."
+> **Max:** "Parrots are only one rung above politicians, though. You'll always know when they're lying: their lips move."
