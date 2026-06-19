@@ -146,7 +146,6 @@ body h3 {
   text-shadow: 0 0 2rem #8f8;
 }
 body p {
-  text-align: justify;
   text-justify: inter-word;
 }
 body p b,
@@ -190,6 +189,51 @@ ul ul {
 }
 ul ul li {
   margin-block: 0.5em;
+}
+
+code {
+  color: #6b6;
+}
+
+figure {
+  margin: 2em auto;
+  text-align: center;
+}
+figure.right {
+  float: right;
+  margin-left: 2em;
+}
+figure img {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 0 6rem rgba(102, 102, 255, 0.5333333333);
+}
+figure figcaption {
+  margin-top: 0.5em;
+  font-size: 0.8em;
+  color: #0ff;
+}
+
+blockquote {
+  font-family: sans-serif;
+  color: #0ff;
+  border-left: 4px solid #66f;
+  background-color: rgba(102, 102, 255, 0.1333333333);
+  padding-left: 1em;
+  margin-left: 0;
+  font-style: italic;
+  margin-block: 2em;
+  padding-block: 0.1em;
+  padding-inline-end: 1em;
+  width: fit-content;
+}
+blockquote p b,
+blockquote p strong {
+  font-style: normal;
+}
+blockquote p i,
+blockquote p em {
+  color: #f66;
 }
 
 /*# sourceMappingURL=style.css.map */

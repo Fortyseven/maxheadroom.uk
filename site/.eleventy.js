@@ -1,5 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFigures = require("markdown-it-image-figures");
+const pageAssetsPlugin = require("eleventy-plugin-page-assets");
 
 const markdownItOptions = {
     html: true,
@@ -14,16 +16,23 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget("./src/assets/");
     eleventyConfig.addWatchTarget("./src/css/");
 
-    // Scoped to input dir to avoid matching node_modules/ and the output dir.
-    eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
-    eleventyConfig.addPassthroughCopy("./src/**/*.png");
-    eleventyConfig.addPassthroughCopy("./src/**/*.gif");
-    eleventyConfig.addPassthroughCopy("./src/**/*.webp");
-    
+    // Co-located images (next to a content file) are copied to that page's
+    // permalink output dir, so relative refs like ./image.png resolve correctly.
+    // Passthrough copy can't do this — it mirrors the source tree, ignoring permalink.
+    eleventyConfig.addPlugin(pageAssetsPlugin, {
+        mode: "parse",
+        postsMatching: "src/**/*.md",
+        assetsMatching: "*.png|*.jpg|*.jpeg|*.gif|*.webp",
+        recursive: false,
+        hashAssets: false,
+    });
+
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
     const markdownLib = markdownIt(markdownItOptions)
         .use(markdownItAttrs)
+        // Wrap standalone images in <figure> and render alt text as <figcaption>.
+        .use(markdownItFigures, { figcaption: "alt", copyAttrs: "^class$" })
         .disable("code");
     eleventyConfig.setLibrary("md", markdownLib);
 
