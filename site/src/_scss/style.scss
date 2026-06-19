@@ -97,12 +97,14 @@ body {
     h2 {
         color: $color-red;
         text-shadow: 0 0 2rem #f88;
+        margin-block: 1.5em;
+        border-bottom: 2px solid $color-red;
     }
 
     h3 {
         color: $color-green;
-        text-align: center;
-        margin-top: 2em;
+        // text-align: center;
+        margin-block: 2.5em 1em;
         text-shadow: 0 0 2rem #8f8;
     }
 
@@ -118,6 +120,7 @@ body {
 
     table {
         border-collapse: collapse;
+        border: none;
         width: 100%;
         // background-color: #26265e60;
         // background-color: #6663;
@@ -127,13 +130,21 @@ body {
         font-size: 0.85em;
         // margin-inline: auto;
 
+        thead {
+            th {
+                border-bottom: 2px solid $color-blue;
+                padding-bottom: 0.5em;
+                text-align: left;
+            }
+        }
+
         tr {
 
             th,
             td {
-                border: 1px solid darken($color-blue, 40%);
+                // border: 1px solid darken($color-blue, 40%);
                 padding: 0.25em 0.5em;
-                text-align: center;
+                // text-align: center;
             }
 
             th {
@@ -144,7 +155,12 @@ body {
                 font-weight: bold;
                 color: $color-yellow;
             }
+
+            &:nth-child(even) {
+                background: color-mix(in srgb, $color-blue, transparent 92%);
+            }
         }
+
 
         // td:last-child {
         //     text-align: left;

@@ -138,11 +138,12 @@ body h1 {
 body h2 {
   color: #f66;
   text-shadow: 0 0 2rem #f88;
+  margin-block: 1.5em;
+  border-bottom: 2px solid #f66;
 }
 body h3 {
   color: #6b6;
-  text-align: center;
-  margin-top: 2em;
+  margin-block: 2.5em 1em;
   text-shadow: 0 0 2rem #8f8;
 }
 body p {
@@ -155,17 +156,21 @@ body p strong {
 }
 body table {
   border-collapse: collapse;
+  border: none;
   width: 100%;
   background-color: rgba(102, 0, 255, 0.1333333333);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
   font-size: 0.85em;
 }
+body table thead th {
+  border-bottom: 2px solid #66f;
+  padding-bottom: 0.5em;
+  text-align: left;
+}
 body table tr th,
 body table tr td {
-  border: 1px solid #000099;
   padding: 0.25em 0.5em;
-  text-align: center;
 }
 body table tr th {
   color: #66f;
@@ -173,6 +178,9 @@ body table tr th {
 body table tr td.label {
   font-weight: bold;
   color: #cc6;
+}
+body table tr:nth-child(even) {
+  background: color-mix(in srgb, #66f, transparent 92%);
 }
 @media (max-width: 768px) {
   body table {
