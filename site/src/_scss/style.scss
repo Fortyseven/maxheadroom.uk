@@ -118,10 +118,14 @@ body {
 
     table {
         border-collapse: collapse;
-        // width: 100%;
-        background-color: #0006;
+        width: 100%;
+        // background-color: #26265e60;
+        // background-color: #6663;
+        background-color: #60f2;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
         font-size: 0.85em;
-        margin-inline: auto;
+        // margin-inline: auto;
 
         tr {
 

@@ -155,9 +155,11 @@ body p strong {
 }
 body table {
   border-collapse: collapse;
-  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  background-color: rgba(102, 0, 255, 0.1333333333);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
   font-size: 0.85em;
-  margin-inline: auto;
 }
 body table tr th,
 body table tr td {
